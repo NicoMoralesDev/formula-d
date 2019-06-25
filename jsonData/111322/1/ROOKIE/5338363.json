@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 5338363,
+  "driverName" : "Joshua Davies",
+  "nationality" : "gb",
+  "color" : "#00d108",
+  "igpTeamId" : 1203873,
+  "teamName" : "Minardi",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 21,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "AUSTRALIA" : 26
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

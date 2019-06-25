@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1204194,
+  "igpManagerId" : 1204187,
+  "teamName" : "Colombia Motorsport",
+  "nationality" : "co",
+  "color" : "#ff0000",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1204194s.png?1543709218",
+  "drivers" : [ 5339364, 5339363 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 18,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 879955,
+  "igpManagerId" : 879948,
+  "teamName" : "Correcaminos",
+  "nationality" : "ar",
+  "color" : "#00ff7a",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/879955s.png?1554415394",
+  "drivers" : [ 7189308, 5872911, 6496945 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 44,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 0
+  }
+}

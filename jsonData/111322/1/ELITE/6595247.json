@@ -1,0 +1,37 @@
+{
+  "igpDriverId" : 6595247,
+  "driverName" : "Estevan González",
+  "nationality" : "ar",
+  "color" : "#ff1f00",
+  "igpTeamId" : 757134,
+  "teamName" : "Yañez Team",
+  "totalPoints" : 26,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 1,
+  "topTens" : 2,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 69,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "MALAYSIA" : 2,
+    "AUSTRALIA" : 6
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 18,
+    "AUSTRALIA" : 8
+  }
+}

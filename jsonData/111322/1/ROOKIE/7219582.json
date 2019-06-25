@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 7219582,
+  "driverName" : "Gerardo Fernández",
+  "nationality" : "ar",
+  "color" : "#66cccc",
+  "igpTeamId" : 1710658,
+  "teamName" : "Mortal",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 42,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "MALAYSIA" : 12
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 0
+  }
+}

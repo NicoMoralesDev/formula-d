@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 317000,
+  "igpManagerId" : 316992,
+  "teamName" : "Scuderia Ferrari",
+  "nationality" : "mx",
+  "color" : "#ff0000",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/317000s.png?1560611541",
+  "drivers" : [ 5211955, 6865684 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 1,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 41,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

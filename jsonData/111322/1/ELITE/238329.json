@@ -1,0 +1,34 @@
+{
+  "igpTeamId" : 238329,
+  "igpManagerId" : 238321,
+  "teamName" : "Verizon Wireless Motorsport",
+  "nationality" : "it",
+  "color" : "#006965",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/238329s.png?1557127639",
+  "drivers" : [ 6923845, 7062244 ],
+  "totalPoints" : 5,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 2,
+  "fastestLaps" : 0,
+  "participations" : 4,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 38,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 1,
+    "AUSTRALIA" : 4
+  }
+}

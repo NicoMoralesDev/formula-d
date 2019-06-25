@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 933029,
+  "igpManagerId" : 933022,
+  "teamName" : "PIERRS Racing",
+  "nationality" : "ar",
+  "color" : "#ff7923",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/933029s.png?1555277525",
+  "drivers" : [ 6219134, 6219108 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 45,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 0
+  }
+}

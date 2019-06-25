@@ -1,0 +1,34 @@
+{
+  "igpTeamId" : 1106553,
+  "igpManagerId" : 1106546,
+  "teamName" : "ZzzuizzZ",
+  "nationality" : "es",
+  "color" : "#788b92",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1106553s.png?1559553276",
+  "drivers" : [ 6037335, 6037336 ],
+  "totalPoints" : 86,
+  "wins" : 2,
+  "poles" : 2,
+  "podiums" : 4,
+  "topTens" : 4,
+  "fastestLaps" : 2,
+  "participations" : 4,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 1,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 43,
+    "AUSTRALIA" : 43
+  }
+}

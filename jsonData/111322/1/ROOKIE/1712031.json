@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1712031,
+  "igpManagerId" : 1712024,
+  "teamName" : "Smirnofchenko",
+  "nationality" : "uy",
+  "color" : "#15b0a2",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
+  "drivers" : [ 7223110, 7223109 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 23,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1710632,
+  "igpManagerId" : 1710625,
+  "teamName" : "Williams Renault",
+  "nationality" : "ar",
+  "color" : "#0d009e",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
+  "drivers" : [ 7219491, 7219492 ],
+  "totalPoints" : 10,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 7,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 10
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1464848,
+  "igpManagerId" : 1464841,
+  "teamName" : "Storm Motors",
+  "nationality" : "mx",
+  "color" : "#0078a0",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1464848s.png?1556415159",
+  "drivers" : [ 6258149, 6779710, 7189536 ],
+  "totalPoints" : 18,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 31,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 18
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1203873,
+  "igpManagerId" : 1203866,
+  "teamName" : "Minardi",
+  "nationality" : "ar",
+  "color" : "#00d108",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1203873s.png?1543676388",
+  "drivers" : [ 5338363, 5338362 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 15,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

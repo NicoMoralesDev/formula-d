@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1395498,
+  "igpManagerId" : 1395491,
+  "teamName" : "Escuderia JV F1",
+  "nationality" : "es",
+  "color" : "#0279f8",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1395498s.png?1548281401",
+  "drivers" : [ 7202984, 6256667 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 43,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

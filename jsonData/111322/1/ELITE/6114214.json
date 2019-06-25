@@ -1,0 +1,37 @@
+{
+  "igpDriverId" : 6114214,
+  "driverName" : "Mariano Werner",
+  "nationality" : "ar",
+  "color" : "#0b590e",
+  "igpTeamId" : 1187326,
+  "teamName" : "Brabham 77 GP2",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 78,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "MALAYSIA" : 11,
+    "AUSTRALIA" : 20
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 0,
+    "AUSTRALIA" : 0
+  }
+}

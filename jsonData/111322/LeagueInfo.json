@@ -1,0 +1,13 @@
+{
+  "igpLeagueId" : 111322,
+  "name" : "FORMULA D",
+  "raceDistance" : "100%",
+  "raceSpeed" : "2.0",
+  "raceDays" : "MTWTFSS",
+  "raceTime" : "17:00",
+  "totalSeasons" : 1,
+  "seasons" : [ 1 ],
+  "teamsChampionships" : null,
+  "lastTeamChampion" : null,
+  "lastDriverChampion" : null
+}

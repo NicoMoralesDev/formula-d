@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 7220745,
+  "driverName" : "Julian Acosta",
+  "nationality" : "ar",
+  "color" : "#1a1a1a",
+  "igpTeamId" : 1711116,
+  "teamName" : "Willliams racing",
+  "totalPoints" : 10,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 8,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "MALAYSIA" : 5
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 10
+  }
+}

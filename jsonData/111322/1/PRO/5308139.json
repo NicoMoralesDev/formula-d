@@ -1,0 +1,37 @@
+{
+  "igpDriverId" : 5308139,
+  "driverName" : "Sofie Meijer",
+  "nationality" : "nl",
+  "color" : "#3550ff",
+  "igpTeamId" : 1454003,
+  "teamName" : "OKC THUNDER",
+  "totalPoints" : 43,
+  "wins" : 1,
+  "poles" : 1,
+  "podiums" : 2,
+  "topTens" : 2,
+  "fastestLaps" : 1,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 54,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "MALAYSIA" : 1,
+    "AUSTRALIA" : 2
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 25,
+    "AUSTRALIA" : 18
+  }
+}

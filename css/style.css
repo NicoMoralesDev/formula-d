@@ -1,0 +1,411 @@
+/****************************************
+THEME
+****************************************/
+
+:root {
+    --page-background-color: #777;
+    
+    --nav-main-color: #222831;
+    --nav-secondary-color: #2D4059;
+    
+    --main-color-one: #222831;
+    --main-color-two: #393E46;
+    
+    --chart-background: #BBB;
+    --table-color-one: #BBB;
+    --table-color-two: #999;
+    
+    --text-color: #000;
+    --contrast-color: #D65A31;
+}
+
+/*
+:root {
+    --page-background-color: #222831;
+    
+    --nav-main-color: #222831;
+    --nav-secondary-color: #2D4059;
+    
+    --main-color-one: #2D4059;
+    --main-color-two: #222831;
+    
+    --chart-background: #2D4059;
+    --table-color-one: #2D4059;
+    --table-color-two: #222831;
+    
+    --text-color: #EEE;
+    --contrast-color: #D65A31;
+}
+*/
+
+
+/*
+var(--main-color);
+*/
+
+
+/****************************************
+MISC
+****************************************/
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block !important;
+}
+
+.ils-visible {
+    visibility: visible !important;
+}
+
+.margin-left-5 {
+    margin-left: 5px;
+}
+
+.margin-left-10 {
+    margin-left: 10px;
+}
+
+
+/****************************************
+BODY
+****************************************/
+
+body {
+    font-family: "Lucida Console", monospace;
+    outline: none;
+    background-color: var(--page-background-color);
+}
+
+
+/****************************************
+NAV
+****************************************/
+
+header, header button {
+    font-size: 33px;
+    background-color: var(--nav-main-color);
+    color: var(--contrast-color);
+    border-bottom: 3px solid var(--contrast-color);
+}
+
+header button:hover {
+    background-color: var(--contrast-color) !important;
+    color: var(--nav-main-color) !important;
+}
+
+.menu {
+    background-color: var(--nav-main-color);
+    color: var(--contrast-color);
+    border-right: 3px solid var(--contrast-color);
+}
+
+.menu a:hover, .menu button:hover {
+    background-color: var(--contrast-color) !important;
+}
+
+.tab {
+    background-color: var(--nav-secondary-color) !important;
+    padding-left: 30px;
+}
+
+.tab i {
+    font-size: 15px !important;
+}
+
+#myMenu {
+    width: 350px;
+    font-size: 20px;
+    max-height: 94%;
+}
+
+#myMenu i {
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+
+/****************************************
+TITLE
+****************************************/
+
+.title {
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    background-color: var(--main-color-one);
+    color: #FFF;
+    border-bottom: 2px solid var(--contrast-color);
+}
+
+.title:hover {
+    opacity: 1;
+    cursor: pointer;
+    background-color: var(--main-color-one);
+    color: var(--contrast-color);
+    text-shadow: 1px 1px 0 #444;
+}
+
+
+/****************************************
+CONTAINERS
+****************************************/
+
+.w3-content {
+    margin-top: 55px;
+}
+
+.box {
+    overflow: auto;
+}
+
+.chart-box {
+    padding: 8px;
+    background-color: var(--chart-background);
+}
+
+
+/****************************************
+COLLAPSIBLE BUTTON
+****************************************/
+
+.progress-bar {
+    background-color: var(--contrast-color);
+}
+
+
+/****************************************
+COLLAPSIBLE BUTTON
+****************************************/
+
+.arrow-collapsible {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    margin-right: 5px;
+    border-radius: 10px;
+    padding-right: 1px;
+}
+
+.arrow-collapsible:hover {
+    background-color: var(--contrast-color);
+}
+
+.arrow-collapsible i {
+    color: var(--contrast-color);
+}
+
+.arrow-collapsible:hover i {
+    color: var(--main-color-one);
+}
+
+
+/****************************************
+COLLAPSIBLE PANEL
+****************************************/
+
+.points-per-race {
+    display: none;
+    padding: 8px;
+    background-color: var(--chart-background);
+    max-height: 0;
+    transition: max-height 0.5s ease-out;
+    overflow: hidden;
+}
+
+.expanded {
+    max-height: 550px;
+    display: block;
+}
+
+.active {
+    background-color: black;
+}
+
+
+/****************************************
+TABLE HEADER
+****************************************/
+
+.header {
+    font-weight: 700;
+    height: 29px;
+    padding-top: 4px;
+    text-align: center;  
+}
+
+.header, thead {
+    background-color: var(--main-color-two);
+}
+
+abbr[title] {
+    cursor: help;
+    border-bottom: 2px dotted var(--contrast-color);
+    text-decoration: none;
+}
+
+.first-column abbr[title], .driver abbr[title] {
+    cursor: help;
+    border-bottom: 2px dotted var(--text-color);
+    text-decoration: none;
+}
+
+
+/****************************************
+TABLE
+****************************************/
+
+table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+table th {
+    height: 25px;
+    padding-bottom: 2px;
+    width: 40px;
+}
+
+td.first-column {
+    width: 30%;
+    text-align: left;
+    padding-left: 5px;
+}
+
+th, td {
+    text-align: center;
+    height: 30px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.driver, .team {
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+
+
+/****************************************
+HEATMAP TABLE
+****************************************/
+
+.heatmap .first-column {
+    width: 15%;
+}
+
+.heatmap td {
+    color: black;
+}
+
+.heatmap th, .heatmap td {
+    border: 0.5px solid var(--main-color-one);
+}
+
+.pos1 {
+    background-color: #FF4C58;
+}
+
+.pos2 {
+    background-color: #FF5A5E;
+}
+
+.pos3 {
+    background-color: #FF6865;
+}
+
+.pos4 {
+    background-color: #FF877C;
+}
+
+.pos5 {
+    background-color: #FF9583;
+}
+
+.pos6 {
+    background-color: #FFA38A;
+}
+
+.pos7 {
+    background-color: #FFB290;
+}
+
+.pos8 {
+    background-color: #FFC097;
+}
+
+.pos9 {
+    background-color: #FFC997;
+}
+
+.pos10 {
+    background-color: #FFDDA5;
+}
+
+.pos32 {
+    background-color: #FFEBAC;
+}
+
+
+/****************************************
+BORDER
+****************************************/
+
+/*
+table, .title, .inner-box, .chart-box {
+    border: 3px solid black;
+    border-radius: 5px;
+}
+*/
+
+.box {
+    border: 3px solid var(--page-background-color);
+}
+
+
+/****************************************
+OPACITY & HOVER
+****************************************/
+
+.heatmap tr:hover td {
+    color: #000;
+    text-shadow: 1px 1px 0 #444;
+    font-weight: 700;
+}
+
+.driver .w3-row:hover, .team .w3-row:hover, tr:hover td, .heatmap tr:hover .first-column {
+    /*opacity: 0.7;*/
+    color: var(--contrast-color);
+    text-shadow: 1px 1px 0 #444;
+    font-weight: 700;
+}
+
+
+/****************************************
+STRIPES EFFECT
+****************************************/
+
+table tbody tr:nth-child(odd), .driver:nth-child(even), .team:nth-child(even) {
+    background-color: var(--table-color-one);
+}
+
+.box {
+    background-color: var(--table-color-two);
+}
+
+
+/****************************************
+TEXTOS
+****************************************/
+
+.box, .heatmap .first-column {
+    color: var(--text-color);
+}
+
+.header, table th {
+    color: var(--contrast-color) !important;
+}

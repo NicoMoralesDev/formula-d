@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1353734,
+  "igpManagerId" : 1353727,
+  "teamName" : "Skoda Speed Super",
+  "nationality" : "li",
+  "color" : "#001fff",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1353734s.png?1547016680",
+  "drivers" : [ 7150879, 6029277 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 19,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <!-- Bootstrap CSS -->
+    <!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
+    <!-- Bootstrap JS -->
+    <!--    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>-->  
+    <!-- Popper -->
+    <!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>-->
+    
+    <!-- Ionic Icons -->
+    <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- Flag Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- W3.CSS -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+    <!-- Charts.JS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+    <!-- jquery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>-->
+    
+    <!-- My CSS Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+        
+
+<!--
+    <script type="text/javascript" charset="utf-8">
+
+        var path = "jsonData/103637/1/";
+        var elite = "ELITE/";
+
+        var totalEvents;
+        var calendar;
+        var races = [];
+        var stats;
+
+        function loadJson() {
+
+            var temporalPath;
+            $(document).ready(function() {
+
+                temporalPath = path + elite + 'TierStats.json';
+                $.getJSON(temporalPath, function(json) {
+                    stats = json;
+                    console.log(stats);
+                });
+
+                temporalPath = path + 'Calendar.json';
+                $.getJSON(temporalPath, function(json) {
+
+                    totalEvents = json.totalEvents;
+                    calendar = json.races;
+                    console.log(totalEvents);
+                    //console.log(calendar);
+                    var orderedCalendar = [];
+                    $.each( calendar, function( k, v ) {
+
+                        orderedCalendar.push([k, v]);
+
+                        if ('Finished' === v) {
+                            temporalPath = path + elite + k + '.json';
+                            $.getJSON(temporalPath, function(json) {
+                                console.log(json);
+                            });
+
+                            temporalPath = path + elite + k + '.json';
+                            $.getJSON(temporalPath, function(json) {
+                                //console.log(json);
+                                races.push(json);
+                            });
+                        }
+                    });
+//                    console.log(orderedCalendar);
+//                    for (var i=0; totalEvents > i; i++) {
+//                        console.log(orderedCalendar[i]);
+//                    }
+                });
+            });
+        }
+    </script>
+-->
+</head>
+<body>
+    <nav class="w3-top">
+        <header class="w3-bar">
+            <button class="open-menu-button w3-bar-item w3-xlarge">&#9776;</button>
+            <span class="w3-bar-item w3-xlarge">iGP League Stats <i class="ion-stats-bars"></i></span>
+            <button class="w3-bar-item w3-right w3-xlarge" style="display: none;">
+                <i class="ion-earth"></i>
+            </button>
+            <button class="w3-bar-item w3-right w3-xlarge" style="display: none;">
+                <i class="ion-paintbucket"></i>
+            </button>
+        </header>
+                
+        <div class="w3-sidebar w3-bar-block w3-animate-left w3-mobile menu" id="myMenu" style="display: none;">
+            
+            <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-home"></i> Home
+            </a>
+            
+            <button class="accordion-menu-button w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-trophy"></i> Ligas <i class="ion-chevron-down" style="font-size: 15px;"></i>
+            </button>      
+            <div class="tab w3-left-align" id="submenu-2" style="display: none;">
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Formula Premium
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Formula D
+                </a>
+            </div>
+            
+            <button class="accordion-menu-button w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-podium"></i> Temporadas <i class="ion-chevron-down" style="font-size: 15px;"></i>
+            </button> 
+            <div class="tab w3-left-align" id="submenu-3" style="display: none;">
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 1
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 2
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 3
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 4
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+            </div>
+            
+            <button class="accordion-menu-button w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-star"></i></i> Categorías <i class="ion-chevron-down" style="font-size: 15px;"></i>
+            </button>
+            <div class="tab w3-left-align ils-blue-gray" id="submenu-4" style="display: none;">
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Novato
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Profesional
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Elite
+                </a>
+            </div>
+        
+            <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile" style="display: none;">
+                <i class="ion-arrow-swap"></i> Español/English
+            </a>
+            
+        </div> 
+    </nav>
+           
+    <div class="w3-content" style="max-width: 100%;">
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="driverWins">
+                    Victorias de Pilotos
+                </div>
+                <div class="chart-box" id="driverWinsBox">
+                    <canvas id="driverWinsChart" style="height: 250px; width: 100%; "></canvas>
+                </div>
+            </div>
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="teamWins">
+                    Victorias de Equipos
+                </div>
+                <div class="chart-box" id="teamWinsBox">
+                    <canvas id="teamWinsChart" style="height: 250px; width: 100%;"></canvas>
+                </div>
+            </div>
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="driverPoles">
+                    Poles de Pilotos
+                </div>
+                <div class="chart-box" id="driverPolesBox">
+                    <canvas id="driverPolesChart" style="height: 250px; width: 100%;"></canvas>
+                </div>
+            </div>
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="teamPoles">
+                    Poles de Equipos
+                </div>
+                <div class="chart-box" id="teamPolesBox">
+                    <canvas id="teamPolesChart" style="height: 250px; width: 100%;"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-mobile box">
+                <div class="title" id="teamPointEvolution">
+                    Evolución de puntos de equipos
+                </div>
+                <div class="chart-box" id="teamPointEvolutionBox">
+                    <canvas id="pointEvolutionChart" style="height: 350px; width: 100%;"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title" id="driverStandings">
+                    Posiciones de Pilotos
+                </div>
+                <div class="inner-box" id="driverStandingsBox">
+                    <div class="w3-row header">
+                        <div class="w3-col margin-left-5" style="width: 40%;">
+                            <span>PILOTO</span>
+                        </div>
+                        <div class="w3-col w3-container" style="width: 41%;">PUNTOS</div>
+                        <div class="w3-rest"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title"  id="driverSeasonTotals">
+                    Estadísticas de Pilotos
+                </div>
+                <table id="driverSeasonTotalsBox">
+                    <thead>
+                        <tr>
+                            <th class="first-column">PILOTO</th>
+                            <th><abbr title="Victorias">V</abbr></th>
+                            <th><abbr title="Podios - Top 3">T3</abbr></th>
+                            <th><abbr title="Top 10">T10</abbr></th>
+                            <th><abbr title="Poles">P1</abbr></th>
+                            <th><abbr title="Vueltas Rápidas">VR</abbr></th>
+                            <th><abbr title="Participaciones">P</abbr></th>
+                            <!--<th>F</th>
+                            <th>DNF</th>
+                            <th>DNS</th>-->
+                        </tr> 
+                    </thead>
+                    <tbody>
+<!--
+                        <tr>
+                            <td class="first-column">A BEN</td>
+                            <td>4</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">A RUI</td>
+                            <td>4</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">R SAN</td>
+                            <td>4</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+-->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title" id="teamStandings">
+                    Posiciones de Equipos
+                </div>
+                <div class="inner-box" id="teamStandingsBox">
+                    <div class="w3-row header">
+                        <div class="w3-col margin-left-5" style="width: 40%;">
+                            <span>EQUIPO</span>
+                        </div>
+                        <div class="w3-col w3-container" style="width: 40%;">PUNTOS</div>
+                        <div class="w3-rest"></div>
+                    </div>
+<!--
+                    <div class="team">
+                        <div class="w3-row">
+                            <div class="w3-col margin-left-5" style="width: 40%;">
+                                <span>🇩🇪 Furia Cuerva</span>
+                            </div>
+                            <div class="w3-col w3-container" style="width: 40%;">
+                                <div class="w3-light-grey w3-round">
+                                    <div class="progress-bar w3-round" style="height:20px;width:100%"></div>
+                                </div>
+                            </div>
+                            <div class="w3-col" style="width: 7%;">
+                                <span>250</span>
+                            </div>
+                            <button class="w3-col w3-right arrow-collapsible" style="width: 5%;" id="team-0">
+                                <i class="ion-chevron-down down"></i>
+                            </button>
+                        </div>
+                        <div class="points-per-race" id="team-panel-0">
+                        </div>
+                    </div>
+                    <div class="team">
+                        <div class="w3-row">
+                            <div class="w3-col margin-left-5" style="width: 40%;">
+                                <span>🇩🇪 Team Tandil</span>
+                            </div>
+                            <div class="w3-col w3-container" style="width: 40%;">
+                                <div class="w3-light-grey w3-round">
+                                    <div class="progress-bar w3-round" style="height:20px;width:79%"></div>
+                                </div>
+                            </div>
+                            <div class="w3-col" style="width: 7%;">
+                                <span>195</span>
+                            </div>
+                            <button class="w3-col w3-right arrow-collapsible" style="width: 5%;" id="team-1">
+                                <i class="ion-chevron-down down"></i>
+                            </button>
+                        </div>
+                        <div class="points-per-race" id="team-panel-1">
+                            <canvas id="myBarChart2" style="height: 300px; width: 100%;"></canvas>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <div class="w3-row">
+                            <div class="w3-col margin-left-5" style="width: 40%;">
+                                <span>🇩🇪 Forza Gnicar</span>
+                            </div>
+                            <div class="w3-col w3-container" style="width: 40%;">
+                                <div class="w3-light-grey w3-round">
+                                    <div class="progress-bar w3-round" style="height:20px;width:51%"></div>
+                                </div>
+                            </div>
+                            <div class="w3-col" style="width: 7%;">
+                                <span>127</span>
+                            </div>
+                            <button class="w3-col w3-right arrow-collapsible" style="width: 5%;" id="team-2">
+                                <i class="ion-chevron-down down"></i>
+                            </button>
+                        </div>
+                        <div class="points-per-race" id="team-panel-2">
+                        </div>
+                    </div>
+-->
+                </div>
+            </div>
+
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title" id="teamSeasonTotals">
+                    Estadísticas de Equipos
+                </div>
+                <table id="teamSeasonTotalsBox">
+                    <thead>
+                        <tr>
+                            <th class="first-column">EQUIPO</th>
+                            <th><abbr title="Victorias">V</abbr></th>
+                            <th><abbr title="Podios - Top 3">T3</abbr></th>
+                            <th><abbr title="Top 10">T10</abbr></th>
+                            <th><abbr title="Poles">P1</abbr></th>
+                            <th><abbr title="Vueltas Rápidas">VR</abbr></th>
+                            <th><abbr title="Participaciones">P</abbr></th>
+                            <!--<th>F</th>
+                            <th>DNF</th>
+                            <th>DNS</th>-->
+                        </tr>
+                    </thead>
+                    <tbody>
+<!--
+                        <tr>
+                            <td class="first-column">Furia Cuerva</td>
+                            <td>4</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">Team Tandil</td>
+                            <td>4</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">Forza Gnicar</td>
+                            <td>4</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>2</td>
+                            <td>1</td>
+                            <td>6</td>
+                            <td>6</td>
+                            <td>0</td>
+                            <td>0</td>
+                        </tr>
+-->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="main-box">
+            <div class="w3-mobile box">
+                <div class="title" id="heatMap">
+                    Mapa de Calor
+                </div>
+                <table class="heatmap" id="heatMapBox">
+                    <thead>
+                        <tr>
+                            <th class="first-column">PILOTO</th>
+                            <th>AUS <span class="flag-icon flag-icon-au"></span></th>
+                            <th>MAL <span class="flag-icon flag-icon-my"></span></th>
+                            <th>CHI <span class="flag-icon flag-icon-cn"></span></th>
+                            <th>BAH <span class="flag-icon flag-icon-bh"></span></th>
+                            <th>ESP <span class="flag-icon flag-icon-es"></span></th>
+                            <th>MON <span class="flag-icon flag-icon-mc"></span></th>
+                            <th>TUR <span class="flag-icon flag-icon-tr"></span></th>
+                            <th>GBR <span class="flag-icon flag-icon-gb"></span></th>
+                            <th>ALE <span class="flag-icon flag-icon-de"></span></th>
+                            <th>HUN <span class="flag-icon flag-icon-hu"></span></th>
+                            <th>EUR <span class="flag-icon flag-icon-eu"></span></th>
+                            <th>BEL <span class="flag-icon flag-icon-be"></span></th>
+                            <th>ITA <span class="flag-icon flag-icon-it"></span></th>
+                            <th>SIN <span class="flag-icon flag-icon-sg"></span></th>
+                            <th>JAP <span class="flag-icon flag-icon-jp"></span></th>
+                            <th>BRA <span class="flag-icon flag-icon-br"></span></th>
+                            <th>EAU <span class="flag-icon flag-icon-ae"></span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+<!--
+                        <tr>
+                            <td class="first-column">A BEN</td>
+                            <td class="pos1">25</td>
+                            <td class="pos2">18</td>
+                            <td class="pos1">25</td>
+                            <td class="pos3">15</td>
+                            <td class="pos8">4</td>
+                            <td class="pos1">25</td>
+                            <td class="pos32">0</td>
+                            <td class="pos7">6</td>
+                            <td class="pos4">12</td>
+                            <td class="pos5">10</td>
+                            <td class="pos6">8</td>
+                            <td class="pos7">6</td>
+                            <td class="pos8">4</td>
+                            <td class="pos9">2</td>
+                            <td class="pos10">1</td>
+                            <td class="pos1">25</td>
+                            <td class="pos2">18</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">A RUI</td>
+                            <td class="pos3">15</td>
+                            <td class="pos3">15</td>
+                            <td class="pos3">15</td>
+                            <td class="pos1">25</td>
+                            <td class="pos5">10</td>
+                            <td class="pos2">18</td>
+                            <td class="pos7">6</td>
+                            <td class="pos5">10</td>
+                            <td class="pos9">2</td>
+                            <td class="pos10">1</td>
+                            <td class="pos7">6</td>
+                            <td class="pos2">18</td>
+                            <td class="pos32">0</td>
+                            <td class="pos1">25</td>
+                            <td class="pos4">12</td>
+                            <td class="pos5">10</td>
+                            <td class="pos6">8</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">R SAN</td>
+                            <td class="pos2">18</td>
+                            <td class="pos1">25</td>
+                            <td class="pos2">18</td>
+                            <td class="pos2">18</td>
+                            <td class="pos3">15</td>
+                            <td class="pos7">6</td>
+                            <td class="pos1">25</td>
+                            <td class="pos32">0</td>
+                            <td class="pos32">0</td>
+                            <td class="pos1">25</td>
+                            <td class="pos2">18</td>
+                            <td class="pos1">25</td>
+                            <td class="pos3">15</td>
+                            <td class="pos8">4</td>
+                            <td class="pos1">25</td>
+                            <td class="pos32">0</td>
+                            <td class="pos10">1</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">L HAM</td>
+                            <td class="pos4">12</td>
+                            <td class="pos5">10</td>
+                            <td class="pos5">10</td>
+                            <td class="pos4">12</td>
+                            <td class="pos4">12</td>
+                            <td class="pos4">12</td>
+                            <td class="pos3">15</td>
+                            <td class="pos2">18</td>
+                            <td class="pos1">25</td>
+                            <td class="pos7">6</td>
+                            <td class="pos1">25</td>
+                            <td class="pos3">15</td>
+                            <td class="pos1">25</td>
+                            <td class="pos7">6</td>
+                            <td class="pos9">2</td>
+                            <td class="pos4">12</td>
+                            <td class="pos8">4</td>
+                        </tr>
+                        <tr>
+                            <td class="first-column">S VET</td>
+                            <td class="pos5">10</td>
+                            <td class="pos4">12</td>
+                            <td class="pos4">12</td>
+                            <td class="pos5">10</td>
+                            <td class="pos6">8</td>
+                            <td class="pos3">15</td>
+                            <td class="pos2">18</td>
+                            <td class="pos1">25</td>
+                            <td class="pos2">18</td>
+                            <td class="pos3">15</td>
+                            <td class="pos3">15</td>
+                            <td class="pos4">12</td>
+                            <td class="pos5">10</td>
+                            <td class="pos6">8</td>
+                            <td class="pos3">15</td>
+                            <td class="pos32">0</td>
+                            <td class="pos9">2</td>
+                        </tr>
+-->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="main-box">
+            <div class="w3-mobile box">
+                <div class="title" id="calendar">
+                    Calendario Temporada 10
+                </div>
+                <table id="calendarBox">
+                    <thead>
+                        <tr>
+                            <th style="width: 30px; padding-left: 5px; padding-right: 5px;">#</th>
+                            <th>Carrera</th>
+                            <th>Fecha</th>
+                            <th>Vueltas</th>
+                            <th>Duración</th>
+                            <th>Ganador</th>
+                            <th>Vuelta Rápida</th>
+                            <th>Tiempo de VR</th>
+                            <th>Pole</th>
+                            <th>Tiempo de Pole</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+<!--
+                        <tr>
+                            <td>1</td>
+                            <td>Australia</td>
+                            <td>16 Jun</td>
+                            <td>58</td>
+                            <td>1:23:40.559</td>
+                            <td>F Ramirez</td>
+                            <td>F Ramirez</td>
+                            <td>1:18.958</td>
+                            <td>S Vettel</td>
+                            <td>1:25.888</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Malasia</td>
+                            <td>6</td>
+                            <td>23 Jun</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>China</td>
+                            <td>6</td>
+                            <td>30 Jun</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+-->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-mobile box">
+                <div class="title" id="pointSystem">
+                    Sistema de Puntos
+                </div>
+                <table id="pointSystemBox">
+                    <thead>
+                        <tr>
+                            <th style="width: 50%">Posición</th>
+                            <th style="width: 50%">Puntos</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+<!--
+                        <tr>
+                            <td>1</td>
+                            <td>25</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>18</td>
+
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td>15</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>12</td>
+                        </tr>
+                        <tr>
+                            <td>5</td>
+                            <td>10</td>
+                        </tr>
+                        <tr>
+                            <td>6</td>
+                            <td>8</td>
+                        </tr>
+                        <tr>
+                            <td>7</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                            <td>8</td>
+                            <td>4</td>
+                        </tr>
+                        <tr>
+                            <td>9</td>
+                            <td>2</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>1</td>
+                        </tr>
+-->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+<script src="js/igp-league-stats.js"></script>  
+</body>
+</html>

@@ -1,0 +1,37 @@
+{
+  "igpDriverId" : 6045376,
+  "driverName" : "Gianpiero Fuoco",
+  "nationality" : "sm",
+  "color" : "#ffffff",
+  "igpTeamId" : 1137366,
+  "teamName" : "UV CS MW Line RT",
+  "totalPoints" : 16,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 2,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 71,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "MALAYSIA" : 7,
+    "AUSTRALIA" : 5
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 6,
+    "AUSTRALIA" : 10
+  }
+}

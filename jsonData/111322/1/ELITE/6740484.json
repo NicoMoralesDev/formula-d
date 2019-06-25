@@ -1,0 +1,37 @@
+{
+  "igpDriverId" : 6740484,
+  "driverName" : "Jannick Schmidt",
+  "nationality" : "de",
+  "color" : "#bb712d",
+  "igpTeamId" : 1149956,
+  "teamName" : "ET OWLS Team",
+  "totalPoints" : 13,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 2,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 73,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "MALAYSIA" : 4,
+    "AUSTRALIA" : 10
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 12,
+    "AUSTRALIA" : 1
+  }
+}

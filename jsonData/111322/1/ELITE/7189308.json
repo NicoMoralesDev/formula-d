@@ -1,0 +1,31 @@
+{
+  "igpDriverId" : 7189308,
+  "driverName" : "Connor Johnson",
+  "nationality" : "au",
+  "color" : "#00ff7a",
+  "igpTeamId" : 879955,
+  "teamName" : "Correcaminos",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 90,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : { },
+  "eventsPoints" : { }
+}

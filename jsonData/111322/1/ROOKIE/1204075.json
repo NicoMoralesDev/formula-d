@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1204075,
+  "igpManagerId" : 1204068,
+  "teamName" : "Sarraceno Racing",
+  "nationality" : "ar",
+  "color" : "#ffff00",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1204075s.png?1543696239",
+  "drivers" : [ 5338964, 5338963 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 14,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

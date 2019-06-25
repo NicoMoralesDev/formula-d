@@ -1,0 +1,34 @@
+{
+  "igpTeamId" : 757134,
+  "igpManagerId" : 757126,
+  "teamName" : "Yañez Team",
+  "nationality" : "ar",
+  "color" : "#ff1f00",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/757134s.png?1560554322",
+  "drivers" : [ 6595247, 5398423 ],
+  "totalPoints" : 51,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 2,
+  "topTens" : 4,
+  "fastestLaps" : 0,
+  "participations" : 4,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 34,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "MALAYSIA" : 28,
+    "AUSTRALIA" : 23
+  }
+}
