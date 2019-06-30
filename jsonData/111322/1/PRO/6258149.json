@@ -5,13 +5,13 @@
   "color" : "#0078a0",
   "igpTeamId" : 1464848,
   "teamName" : "Storm Motors",
-  "totalPoints" : 12,
+  "totalPoints" : 24,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 1,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "MALAYSIA" : 4
+    "MALAYSIA" : 4,
+    "CHINA" : 4
   },
   "eventsPoints" : {
-    "MALAYSIA" : 12
+    "MALAYSIA" : 12,
+    "CHINA" : 12
   }
 }

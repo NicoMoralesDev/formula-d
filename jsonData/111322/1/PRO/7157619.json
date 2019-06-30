@@ -5,13 +5,13 @@
   "color" : "#db0101",
   "igpTeamId" : 1196729,
   "teamName" : "Scuderia SpartanZ",
-  "totalPoints" : 6,
+  "totalPoints" : 8,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 2,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "MALAYSIA" : 8,
-    "AUSTRALIA" : 9
+    "AUSTRALIA" : 9,
+    "CHINA" : 9
   },
   "eventsPoints" : {
     "MALAYSIA" : 4,
-    "AUSTRALIA" : 2
+    "AUSTRALIA" : 2,
+    "CHINA" : 2
   }
 }

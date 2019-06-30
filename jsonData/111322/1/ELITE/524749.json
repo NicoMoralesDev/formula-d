@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 524749,
+  "igpManagerId" : null,
+  "teamName" : "Ferrari Academy 1",
+  "nationality" : "it",
+  "color" : "#ff0000",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/524749s.png?1551667764",
+  "drivers" : [ 5341375, 5645030 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 1,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 4,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "CHINA" : 0
+  }
+}

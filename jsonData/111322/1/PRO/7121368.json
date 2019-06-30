@@ -5,13 +5,13 @@
   "color" : "#6699cc",
   "igpTeamId" : 1146193,
   "teamName" : "DISO",
-  "totalPoints" : 11,
+  "totalPoints" : 12,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 2,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "MALAYSIA" : 10,
-    "AUSTRALIA" : 5
+    "AUSTRALIA" : 5,
+    "CHINA" : 10
   },
   "eventsPoints" : {
     "MALAYSIA" : 1,
-    "AUSTRALIA" : 10
+    "AUSTRALIA" : 10,
+    "CHINA" : 1
   }
 }

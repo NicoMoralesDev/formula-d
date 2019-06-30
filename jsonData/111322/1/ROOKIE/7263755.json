@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 7263755,
+  "driverName" : "A Álvarez",
+  "nationality" : "ar",
+  "color" : "#1d388f",
+  "igpTeamId" : 1728428,
+  "teamName" : "Schorts Racing",
+  "totalPoints" : 1,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 6,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "CHINA" : 10
+  },
+  "eventsPoints" : {
+    "CHINA" : 1
+  }
+}

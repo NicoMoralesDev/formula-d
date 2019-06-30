@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 5645030,
+  "driverName" : "R Wisell",
+  "nationality" : "se",
+  "color" : "#ff0000",
+  "igpTeamId" : 524749,
+  "teamName" : "Ferrari Academy 1",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 8,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "CHINA" : 13
+  },
+  "eventsPoints" : {
+    "CHINA" : 0
+  }
+}

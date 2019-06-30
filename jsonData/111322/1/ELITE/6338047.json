@@ -5,13 +5,13 @@
   "color" : "#bb712d",
   "igpTeamId" : 1149956,
   "teamName" : "ET OWLS Team",
-  "totalPoints" : 10,
-  "wins" : 0,
+  "totalPoints" : 35,
+  "wins" : 1,
   "poles" : 0,
-  "podiums" : 0,
-  "topTens" : 2,
+  "podiums" : 1,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "MALAYSIA" : 6,
-    "AUSTRALIA" : 9
+    "AUSTRALIA" : 9,
+    "CHINA" : 1
   },
   "eventsPoints" : {
     "MALAYSIA" : 8,
-    "AUSTRALIA" : 2
+    "AUSTRALIA" : 2,
+    "CHINA" : 25
   }
 }

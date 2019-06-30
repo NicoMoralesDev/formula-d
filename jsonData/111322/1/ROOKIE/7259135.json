@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 7259135,
+  "driverName" : "S Medina",
+  "nationality" : "ar",
+  "color" : "#69ff00",
+  "igpTeamId" : 1726369,
+  "teamName" : "equipo tarnor",
+  "totalPoints" : 12,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 1,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "CHINA" : 4
+  },
+  "eventsPoints" : {
+    "CHINA" : 12
+  }
+}
