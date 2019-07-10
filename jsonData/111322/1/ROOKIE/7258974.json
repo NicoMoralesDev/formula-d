@@ -5,13 +5,13 @@
   "color" : "#66cc66",
   "igpTeamId" : 1726304,
   "teamName" : "Ferrari",
-  "totalPoints" : 2,
+  "totalPoints" : 10,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 1,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "CHINA" : 9
+    "CHINA" : 9,
+    "BAHRAIN" : 6
   },
   "eventsPoints" : {
-    "CHINA" : 2
+    "CHINA" : 2,
+    "BAHRAIN" : 8
   }
 }

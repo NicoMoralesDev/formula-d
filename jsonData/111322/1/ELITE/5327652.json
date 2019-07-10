@@ -5,13 +5,13 @@
   "color" : "#2f1fe9",
   "igpTeamId" : 960394,
   "teamName" : "Nemesis Racing Team",
-  "totalPoints" : 14,
+  "totalPoints" : 32,
   "wins" : 0,
-  "poles" : 0,
-  "podiums" : 0,
-  "topTens" : 2,
-  "fastestLaps" : 1,
-  "participations" : 3,
+  "poles" : 1,
+  "podiums" : 1,
+  "topTens" : 3,
+  "fastestLaps" : 2,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "MALAYSIA" : 9,
     "AUSTRALIA" : 13,
-    "CHINA" : 4
+    "CHINA" : 4,
+    "BAHRAIN" : 2
   },
   "eventsPoints" : {
     "MALAYSIA" : 2,
     "AUSTRALIA" : 0,
-    "CHINA" : 12
+    "CHINA" : 12,
+    "BAHRAIN" : 18
   }
 }

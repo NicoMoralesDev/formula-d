@@ -5,13 +5,13 @@
   "color" : "#ff7923",
   "igpTeamId" : 933029,
   "teamName" : "PIERRS Racing",
-  "totalPoints" : 0,
+  "totalPoints" : 2,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "MALAYSIA" : 17,
-    "CHINA" : 18
+    "CHINA" : 18,
+    "BAHRAIN" : 9
   },
   "eventsPoints" : {
     "MALAYSIA" : 0,
-    "CHINA" : 0
+    "CHINA" : 0,
+    "BAHRAIN" : 2
   }
 }

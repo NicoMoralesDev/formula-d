@@ -5,13 +5,13 @@
   "color" : "#00ff7a",
   "igpTeamId" : 879955,
   "teamName" : "Correcaminos",
-  "totalPoints" : 0,
+  "totalPoints" : 10,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "MALAYSIA" : 16,
-    "CHINA" : 14
+    "CHINA" : 14,
+    "BAHRAIN" : 5
   },
   "eventsPoints" : {
     "MALAYSIA" : 0,
-    "CHINA" : 0
+    "CHINA" : 0,
+    "BAHRAIN" : 10
   }
 }

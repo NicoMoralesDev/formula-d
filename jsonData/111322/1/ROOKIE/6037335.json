@@ -5,13 +5,13 @@
   "color" : "#788b92",
   "igpTeamId" : 1106553,
   "teamName" : "ZzzuizzZ",
-  "totalPoints" : 68,
-  "wins" : 2,
+  "totalPoints" : 93,
+  "wins" : 3,
   "poles" : 2,
-  "podiums" : 3,
-  "topTens" : 3,
-  "fastestLaps" : 1,
-  "participations" : 3,
+  "podiums" : 4,
+  "topTens" : 4,
+  "fastestLaps" : 2,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "MALAYSIA" : 1,
     "AUSTRALIA" : 2,
-    "CHINA" : 1
+    "CHINA" : 1,
+    "BAHRAIN" : 1
   },
   "eventsPoints" : {
     "MALAYSIA" : 25,
     "AUSTRALIA" : 18,
-    "CHINA" : 25
+    "CHINA" : 25,
+    "BAHRAIN" : 25
   }
 }

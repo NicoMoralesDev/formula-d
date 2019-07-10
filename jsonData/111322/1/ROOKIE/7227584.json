@@ -5,13 +5,13 @@
   "color" : "#132ff0",
   "igpTeamId" : 1713733,
   "teamName" : "Gabito",
-  "totalPoints" : 0,
+  "totalPoints" : 1,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "MALAYSIA" : 19,
-    "CHINA" : 11
+    "CHINA" : 11,
+    "BAHRAIN" : 10
   },
   "eventsPoints" : {
     "MALAYSIA" : 0,
-    "CHINA" : 0
+    "CHINA" : 0,
+    "BAHRAIN" : 1
   }
 }

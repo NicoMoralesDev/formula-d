@@ -5,13 +5,13 @@
   "color" : "#6f0cdb",
   "igpTeamId" : 1708941,
   "teamName" : "Thunder Sports Racing",
-  "totalPoints" : 8,
+  "totalPoints" : 20,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "MALAYSIA" : 27,
-    "CHINA" : 6
+    "CHINA" : 6,
+    "BAHRAIN" : 4
   },
   "eventsPoints" : {
     "MALAYSIA" : 0,
-    "CHINA" : 8
+    "CHINA" : 8,
+    "BAHRAIN" : 12
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#69ff00",
   "igpTeamId" : 1726369,
   "teamName" : "equipo tarnor",
-  "totalPoints" : 4,
+  "totalPoints" : 8,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 1,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "CHINA" : 8
+    "CHINA" : 8,
+    "BAHRAIN" : 8
   },
   "eventsPoints" : {
-    "CHINA" : 4
+    "CHINA" : 4,
+    "BAHRAIN" : 4
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#cec83c",
   "igpTeamId" : 1135556,
   "teamName" : "Algon Competicion",
-  "totalPoints" : 14,
+  "totalPoints" : 22,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "MALAYSIA" : 9,
     "AUSTRALIA" : 6,
-    "CHINA" : 8
+    "CHINA" : 8,
+    "BAHRAIN" : 6
   },
   "eventsPoints" : {
     "MALAYSIA" : 2,
     "AUSTRALIA" : 8,
-    "CHINA" : 4
+    "CHINA" : 4,
+    "BAHRAIN" : 8
   }
 }
