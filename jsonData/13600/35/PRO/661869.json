@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 661869,
+  "igpManagerId" : 661861,
+  "teamName" : "Springsteen Racing",
+  "nationality" : "es",
+  "color" : "#6efd02",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/661869s.png?1560872271",
+  "drivers" : [ 5953358, 5210362, 7407823 ],
+  "totalPoints" : 4,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 3,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 20,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 4
+  }
+}

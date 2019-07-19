@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1205552,
+  "igpManagerId" : 1205545,
+  "teamName" : "Jhon Player Special",
+  "nationality" : "es",
+  "color" : "#000000",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1205552s.png?1561199603",
+  "drivers" : [ 7189898, 6733703 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 45,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

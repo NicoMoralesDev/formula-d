@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 325518,
+  "igpManagerId" : 325510,
+  "teamName" : "CF MOTORSPORT",
+  "nationality" : "ar",
+  "color" : "#081f67",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/325518s.png?1554687543",
+  "drivers" : [ 6198390, 5343431 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 25,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

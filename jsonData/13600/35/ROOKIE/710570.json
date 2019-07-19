@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 710570,
+  "igpManagerId" : 710562,
+  "teamName" : "Nissan Terao",
+  "nationality" : "es",
+  "color" : "#b90101",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/710570s.png?1525129273",
+  "drivers" : [ 4893258, 5336986 ],
+  "totalPoints" : 33,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 6,
+  "topTens" : 6,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 2,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 33
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1188500,
+  "igpManagerId" : 1188493,
+  "teamName" : "Drakkar Racing",
+  "nationality" : "mx",
+  "color" : "#c7c7c7",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1188500s.png?1543112316",
+  "drivers" : [ 7290981, 7290980 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 7,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

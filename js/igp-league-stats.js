@@ -733,14 +733,14 @@ var chartController = (function(dataController) {
         var wins = [];
         var colors = [];
         var labels = [];
-        teamWins = tierStats.teamWins
+        teamWins = tierStats.teamWins;
         for(const [teamId, amount] of Object.entries(teamWins)) {
             
             var team = dataController.getDriverOrTeam(teamId);
             
             wins.push(amount);
             
-            teamName = team.teamName;
+            var teamName = team.teamName;
             labels.push(teamName);
             colors.push(team.color);
         }
@@ -843,16 +843,16 @@ var chartController = (function(dataController) {
         teams = appData.teams;
         
         //Set Calendar
-        var labels = [""]   
+        var labels = [""];
         for(var i = 1; i <= calendar.size; i++) {
             labels.push(calendar.get(i).circuit);
         }
         
         //Add datasets for top 5 teams
         var dataSets = [];     
-        for(var i = 1; i <= 5; i++) {
+        for(i = 1; i <= 5; i++) {
 
-            team = teams.get(i);
+            var team = teams.get(i);
             var eventsPoints = team.eventsPoints;
             
             var points = [0];

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 281017,
+  "igpManagerId" : 281009,
+  "teamName" : "Casla racing",
+  "nationality" : "ar",
+  "color" : "#cc6666",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/281017s.png?1544319810",
+  "drivers" : [ 6686055, 6414355 ],
+  "totalPoints" : 18,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 3,
+  "topTens" : 3,
+  "fastestLaps" : 3,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 17,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 18
+  }
+}

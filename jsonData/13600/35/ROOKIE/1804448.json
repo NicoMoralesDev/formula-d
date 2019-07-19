@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1804448,
+  "igpManagerId" : 1804441,
+  "teamName" : "Rickzito VC Team",
+  "nationality" : "es",
+  "color" : "#844dff",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1804448s.png?1563223418",
+  "drivers" : [ 7444788, 7444789 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 12,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

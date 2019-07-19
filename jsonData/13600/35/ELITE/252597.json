@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 252597,
+  "igpManagerId" : 252589,
+  "teamName" : "JET Sport",
+  "nationality" : "ar",
+  "color" : "#d7fa00",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/252597s.png?1561329706",
+  "drivers" : [ 6167867, 6496602 ],
+  "totalPoints" : 24,
+  "wins" : 0,
+  "poles" : 3,
+  "podiums" : 3,
+  "topTens" : 6,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 33,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 24
+  }
+}

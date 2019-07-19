@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1124196,
+  "igpManagerId" : 1124189,
+  "teamName" : "Teku Team",
+  "nationality" : "us",
+  "color" : "#909090",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1124196s.png?1554565980",
+  "drivers" : [ 5252180, 7032691, 7075325 ],
+  "totalPoints" : 40,
+  "wins" : 3,
+  "poles" : 0,
+  "podiums" : 6,
+  "topTens" : 6,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 16,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 40
+  }
+}

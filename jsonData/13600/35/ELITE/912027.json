@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 912027,
+  "igpManagerId" : 912020,
+  "teamName" : "Alfalfa Lomeo",
+  "nationality" : "lt",
+  "color" : "#19ec06",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/912027s.png?1521501173",
+  "drivers" : [ 5326916, 5238795 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 44,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

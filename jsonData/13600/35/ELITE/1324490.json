@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1324490,
+  "igpManagerId" : 1324483,
+  "teamName" : "AL ANDALUS Racing team",
+  "nationality" : "es",
+  "color" : "#396f0f",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1324490s.png?1561190926",
+  "drivers" : [ 5694035, 5648147 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 46,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

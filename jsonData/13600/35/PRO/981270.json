@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 981270,
+  "igpManagerId" : 981263,
+  "teamName" : "Jordan iGP Team",
+  "nationality" : "es",
+  "color" : "#ffeb00",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/981270s.png?1548452905",
+  "drivers" : [ 6742674, 5289603 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 27,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

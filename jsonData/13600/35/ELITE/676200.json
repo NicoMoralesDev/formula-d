@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 676200,
+  "igpManagerId" : 676192,
+  "teamName" : "FERRARI",
+  "nationality" : "uy",
+  "color" : "#fc0303",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/676200s.png?1563296711",
+  "drivers" : [ 5088992, 5138614 ],
+  "totalPoints" : 2,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 3,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 37,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 2
+  }
+}

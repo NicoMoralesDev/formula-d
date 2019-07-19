@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 273722,
+  "igpManagerId" : 273714,
+  "teamName" : "Fuerza Mexicana F1 TEAM",
+  "nationality" : "mx",
+  "color" : "#dd8306",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/273722s.png?1556681763",
+  "drivers" : [ 5237000, 7456960, 7034569 ],
+  "totalPoints" : 1,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 3,
+  "fastestLaps" : 0,
+  "participations" : 6,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 22,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 1
+  }
+}
