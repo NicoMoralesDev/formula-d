@@ -26,38 +26,76 @@ var dataController = (function() {
         teams: null
     };
     
-    var spanish = {
-        menu: {
-            
-        },
-        titles: {
-            
-        },
-        headers: {
-            
-        },
-        circuit: {
-            AUSTRALIA: "Australia",
-            MALAYSIA: "Malasia",
-            CHINA: "China",
-            BAHRAIN: "Bahréin",
-            SPAIN: "España",
-            MONACO: "Mónaco",
-            TURKEY: "Turquía",
-            GREATBRITAIN09: "Gran Bretaña 09",
-            GERMANY: "Alemania",
-            HUNGARY: "Hungría",
-            EUROPE: "Europa",
-            BELGIUM: "Bélgica",
-            ITALY: "Italia",
-            SINGAPORE: "Singapur",
-            JAPAN: "Japón",
-            BRAZIL: "Brasil",
-            ABUDHABI: "Abu Dhabi",
-            GREATBRITAIN19: "Gran Bretaña 19"
+    var lang = {
+        spanish: {
+            menu: {
+                '%M_HOME%': "Inicio",
+                '%M_LEAGUES%': "Ligas",
+                '%M_SEASONS%': "Temporadas",
+                '%M_TIERS%': "Categorías",
+                '%M_SEASON %': "Temporada ",
+                '%M_ROOKIE%': "Novato",
+                '%M_PRO%': "Profesional",
+                '%M_ELITE%': "Élite"
+            },
+            title: {
+                '%T_DRIVERWINS%': "Victorias de Pilotos",
+                '%T_TEAMWINS%': "Victorias de Equipos",
+                '%T_DRIVERPOLES%': "Poles de Pilotos",
+                '%T_TEAMPOLES%': "Poles de Equipos",
+                '%T_POINTEVOLUTION%': "Evolución de Puntos de Equipos",
+                '%T_DRIVERSTANDINGS%': "Posiciones de Pilotos",
+                '%T_DRIVERSTATS%': "Estadísticas de Pilotos",
+                '%T_TEAMSTANDINGS%': "Posiciones de Equipos",
+                '%T_TEAMSTATS%': "Estadísticas de Equipos",
+                '%T_HEATMAP%': "Mapa de Calor",
+                '%T_CALENDAR%': "Calendario",
+                '%T_POINTSYSTEM%': "Sistema de Puntos"
+            },
+            header: {
+                '%H_DRIVER%': "PILOTO",
+                '%H_TEAM%': "EQUIPO",
+                '%H_POINTS%': "PUNTOS",
+                '%H_WINS%': "V",
+                '%H_TOP3%': "T3",
+                '%H_TOP10%': "T10",
+                '%H_POLES%': "PP",
+                '%H_FASTESTLAPS%': "VR",
+                '%H_PARTICIPATIONS%': "P",
+                '%H_RACE%': "Carrera",
+                '%H_DATE%': "Fecha",
+                '%H_LAPS%': "Vueltas",
+                '%H_DURATION%': "Duración",
+                '%H_WINNER%': "Ganador",
+                '%H_FASTESTLAP%': "Vuelta Rápida",
+                '%H_FASTESTLAPTIME%': "Tiempo de VR",
+                '%H_POLE%': "Pole",
+                '%H_POLETIME%': "Tiempo de Pole",
+                '%H_POSITION%': "Posición",
+                '%H_POINTS2%': "Puntos"
+            },
+            circuit: {
+                AUSTRALIA: "Australia",
+                MALAYSIA: "Malasia",
+                CHINA: "China",
+                BAHRAIN: "Bahréin",
+                SPAIN: "España",
+                MONACO: "Mónaco",
+                TURKEY: "Turquía",
+                GREATBRITAIN09: "Gran Bretaña 09",
+                GERMANY: "Alemania",
+                HUNGARY: "Hungría",
+                EUROPE: "Europa",
+                BELGIUM: "Bélgica",
+                ITALY: "Italia",
+                SINGAPORE: "Singapur",
+                JAPAN: "Japón",
+                BRAZIL: "Brasil",
+                ABUDHABI: "Abu Dhabi",
+                GREATBRITAIN19: "Gran Bretaña 19"
+            }
         }
-    }
-    
+    }    
     
     var loadFiles = function(leagueId, season, tier, lang) {
         
@@ -161,7 +199,7 @@ var dataController = (function() {
         for(var i = 1; i <= Object.keys(racesOrder).length; i++) {
             
             var reference = racesOrder[i];
-            var circuit = spanish.circuit[racesOrder[i]];
+            var circuit = lang.spanish.circuit[racesOrder[i]];
             var date = races[racesOrder[i]]
 
             var raceInfo = {
@@ -1351,7 +1389,7 @@ var appController = (function(dataController, UIController, chartController) {
         init: function(lang) {
             console.log('Application has started.');
             setupEventListeners();
-            dataController.load(111322, 1, 'ELITE', lang);
+            dataController.load(13600, 35, 'ELITE', lang);
             renderPage();
             chartController.load();
             renderCharts();
@@ -1362,20 +1400,3 @@ var appController = (function(dataController, UIController, chartController) {
 var userLang = navigator.language || navigator.userLanguage; 
 var lang = userLang.split("-")[1];
 appController.init(lang);
-
-
-
-
-
-
-
-
-
-
-//borrar despues
-//var chartFontColor, chartBorderColor, chartGridLinesColor;
-//chartFontColor = chartBorderColor = chartGridLinesColor = '#333';
-//
-//var doughnutType = 'doughnut';
-//var lineType = 'line';
-//var barType = 'bar';

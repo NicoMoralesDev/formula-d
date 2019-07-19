@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 6495652,
+  "driverName" : "Fabian Ceballos",
+  "nationality" : "es",
+  "color" : "#f4840e",
+  "igpTeamId" : 18580,
+  "teamName" : "Anfera",
+  "totalPoints" : 2,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 42,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "AUSTRALIA" : 9
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 2
+  }
+}

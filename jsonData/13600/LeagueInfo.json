@@ -1,0 +1,23 @@
+{
+  "igpLeagueId" : 13600,
+  "name" : "FIA F1 - OFICIAL",
+  "raceDistance" : "75%",
+  "raceSpeed" : "2.0",
+  "raceDays" : "MTWTFSS",
+  "raceTime" : "13:00",
+  "totalSeasons" : 35,
+  "seasons" : [ 35 ],
+  "teamsChampionships" : {
+    "240338" : 1,
+    "87236" : 4,
+    "325826" : 1,
+    "252597" : 1,
+    "253269" : 2,
+    "337068" : 7,
+    "805991" : 13,
+    "86685" : 1,
+    "225934" : 1
+  },
+  "lastTeamChampion" : 805991,
+  "lastDriverChampion" : 5205880
+}

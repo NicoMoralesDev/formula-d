@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 7152557,
+  "driverName" : "Fortunato Medina",
+  "nationality" : "ar",
+  "color" : "#aa9b22",
+  "igpTeamId" : 253264,
+  "teamName" : "Lusty Sport Team",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 48,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "AUSTRALIA" : 20
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

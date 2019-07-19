@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 5195894,
+  "driverName" : "Joseph Palmer",
+  "nationality" : "gb",
+  "color" : "#081fdb",
+  "igpTeamId" : 553935,
+  "teamName" : "Giant team",
+  "totalPoints" : 1,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 10,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "AUSTRALIA" : 10
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 1
+  }
+}

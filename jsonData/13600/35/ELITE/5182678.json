@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 5182678,
+  "driverName" : "Manos Fotopoulos",
+  "nationality" : "gr",
+  "color" : "#08f034",
+  "igpTeamId" : 337354,
+  "teamName" : "GnomoTeam",
+  "totalPoints" : 8,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 74,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "AUSTRALIA" : 6
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 8
+  }
+}

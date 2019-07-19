@@ -1,0 +1,42 @@
+{
+  "id" : 4510,
+  "racesOrder" : {
+    "1" : "AUSTRALIA",
+    "2" : "MALAYSIA",
+    "3" : "CHINA",
+    "4" : "BAHRAIN",
+    "5" : "SPAIN",
+    "6" : "MONACO",
+    "7" : "TURKEY",
+    "8" : "GREATBRITAIN19",
+    "9" : "GERMANY",
+    "10" : "HUNGARY",
+    "11" : "EUROPE",
+    "12" : "BELGIUM",
+    "13" : "ITALY",
+    "14" : "SINGAPORE",
+    "15" : "JAPAN",
+    "16" : "BRAZIL",
+    "17" : "ABUDHABI"
+  },
+  "races" : {
+    "AUSTRALIA" : "Finished",
+    "MALAYSIA" : "22 Jul, 13:00",
+    "CHINA" : "23 Jul, 13:00",
+    "BAHRAIN" : "24 Jul, 13:00",
+    "SPAIN" : "25 Jul, 13:00",
+    "MONACO" : "26 Jul, 13:00",
+    "TURKEY" : "29 Jul, 13:00",
+    "GREATBRITAIN19" : "30 Jul, 13:00",
+    "GERMANY" : "31 Jul, 13:00",
+    "HUNGARY" : "01 Aug, 13:00",
+    "EUROPE" : "02 Aug, 13:00",
+    "BELGIUM" : "05 Aug, 13:00",
+    "ITALY" : "06 Aug, 13:00",
+    "SINGAPORE" : "07 Aug, 13:00",
+    "JAPAN" : "08 Aug, 13:00",
+    "BRAZIL" : "09 Aug, 13:00",
+    "ABUDHABI" : "12 Aug, 13:00"
+  },
+  "totalEvents" : 17
+}

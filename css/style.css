@@ -43,6 +43,12 @@ THEME
 var(--main-color);
 */
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 
 /****************************************
 MISC
@@ -154,7 +160,7 @@ CONTAINERS
 ****************************************/
 
 .w3-content {
-    margin-top: 55px;
+    /* margin-top: 55px; */
 }
 
 .box {

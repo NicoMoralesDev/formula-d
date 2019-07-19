@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 5205880,
+  "driverName" : "Heikki Niemi",
+  "nationality" : "fi",
+  "color" : "#00fffa",
+  "igpTeamId" : 805991,
+  "teamName" : "Opettaja EricDeath F1",
+  "totalPoints" : 25,
+  "wins" : 1,
+  "poles" : 0,
+  "podiums" : 1,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 69,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "AUSTRALIA" : 1
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 25
+  }
+}
