@@ -5,13 +5,13 @@
   "color" : "#ffe6e6",
   "igpTeamId" : 1673573,
   "teamName" : "Quimica",
-  "totalPoints" : 12,
+  "totalPoints" : 14,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "AUSTRALIA" : 8
+    "AUSTRALIA" : 8,
+    "MALAYSIA" : 9
   },
   "eventsPoints" : {
-    "AUSTRALIA" : 4
+    "AUSTRALIA" : 4,
+    "MALAYSIA" : 2
   }
 }

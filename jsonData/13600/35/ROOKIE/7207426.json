@@ -7,11 +7,11 @@
   "teamName" : "Racing Star Point F1 Team",
   "totalPoints" : 36,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "AUSTRALIA" : 4
+    "AUSTRALIA" : 4,
+    "MALAYSIA" : 16
   },
   "eventsPoints" : {
-    "AUSTRALIA" : 12
+    "AUSTRALIA" : 12,
+    "MALAYSIA" : 0
   }
 }

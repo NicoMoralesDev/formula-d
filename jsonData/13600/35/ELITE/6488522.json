@@ -5,13 +5,13 @@
   "color" : "#084eb7",
   "igpTeamId" : 1123049,
   "teamName" : "AMP Fiat",
-  "totalPoints" : 0,
+  "totalPoints" : 4,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "AUSTRALIA" : 14
+    "AUSTRALIA" : 14,
+    "MALAYSIA" : 8
   },
   "eventsPoints" : {
-    "AUSTRALIA" : 0
+    "AUSTRALIA" : 0,
+    "MALAYSIA" : 4
   }
 }

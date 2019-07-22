@@ -5,13 +5,13 @@
   "color" : "#08f034",
   "igpTeamId" : 337354,
   "teamName" : "GnomoTeam",
-  "totalPoints" : 45,
+  "totalPoints" : 51,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 3,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 3,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "AUSTRALIA" : 3
+    "AUSTRALIA" : 3,
+    "MALAYSIA" : 7
   },
   "eventsPoints" : {
-    "AUSTRALIA" : 15
+    "AUSTRALIA" : 15,
+    "MALAYSIA" : 6
   }
 }

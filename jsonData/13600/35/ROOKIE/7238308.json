@@ -1,22 +1,21 @@
 {
-  "igpTeamId" : 1554830,
-  "igpManagerId" : 1554823,
-  "teamName" : "Racing Star Point F1 Team",
-  "nationality" : "mx",
+  "igpDriverId" : 7238308,
+  "driverName" : "E Kelly",
+  "nationality" : "us",
   "color" : "#b4497d",
-  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1554830s.png?1563314419",
-  "drivers" : [ 7207426, 6499649, 7238308 ],
-  "totalPoints" : 20,
+  "igpTeamId" : 1554830,
+  "teamName" : "Racing Star Point F1 Team",
+  "totalPoints" : 0,
   "wins" : 0,
-  "poles" : 1,
+  "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 1,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 3,
+    "id" : 1,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,8 +26,10 @@
     "participations" : 0,
     "finishedRaces" : 0
   },
+  "eventsPositions" : {
+    "MALAYSIA" : 23
+  },
   "eventsPoints" : {
-    "AUSTRALIA" : 20,
     "MALAYSIA" : 0
   }
 }
