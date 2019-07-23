@@ -5,17 +5,17 @@
   "color" : "#f4840e",
   "igpTeamId" : 18580,
   "teamName" : "Anfera",
-  "totalPoints" : 6,
+  "totalPoints" : 2,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 42,
+    "id" : 63,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 22,
     "AUSTRALIA" : 9,
     "MALAYSIA" : 13
   },
   "eventsPoints" : {
+    "CHINA" : 0,
     "AUSTRALIA" : 2,
     "MALAYSIA" : 0
   }

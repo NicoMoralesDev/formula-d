@@ -5,17 +5,17 @@
   "color" : "#6efd02",
   "igpTeamId" : 661869,
   "teamName" : "Springsteen Racing",
-  "totalPoints" : 12,
+  "totalPoints" : 5,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 41,
+    "id" : 61,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 10,
     "AUSTRALIA" : 8,
     "MALAYSIA" : 27
   },
   "eventsPoints" : {
+    "CHINA" : 1,
     "AUSTRALIA" : 4,
     "MALAYSIA" : 0
   }

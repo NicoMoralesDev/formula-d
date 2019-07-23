@@ -4,19 +4,19 @@
   "teamName" : "Morados Sports Team",
   "nationality" : "ar",
   "color" : "#a500a5",
-  "carImage" : "https://igpmanager.azureedge.net/igp/livery/870596s.png?1561136208",
-  "drivers" : [ 5107977, 3728865 ],
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/870596s.png?1563806196",
+  "drivers" : [ 5107977, 7503485 ],
   "totalPoints" : 0,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 42,
+    "id" : 49,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,6 +28,7 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "CHINA" : 0,
     "AUSTRALIA" : 0,
     "MALAYSIA" : 0
   }

@@ -5,17 +5,17 @@
   "color" : "#fc0303",
   "igpTeamId" : 676200,
   "teamName" : "FERRARI",
-  "totalPoints" : 18,
+  "totalPoints" : 15,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 77,
+    "id" : 89,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 10,
     "AUSTRALIA" : 9,
     "MALAYSIA" : 4
   },
   "eventsPoints" : {
+    "CHINA" : 1,
     "AUSTRALIA" : 2,
     "MALAYSIA" : 12
   }

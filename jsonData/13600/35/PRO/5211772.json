@@ -7,15 +7,15 @@
   "teamName" : "MclataTEAM F1",
   "totalPoints" : 0,
   "wins" : 0,
-  "poles" : 3,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 64,
+    "id" : 73,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 17,
     "AUSTRALIA" : 14,
     "MALAYSIA" : 25
   },
   "eventsPoints" : {
+    "CHINA" : 0,
     "AUSTRALIA" : 0,
     "MALAYSIA" : 0
   }

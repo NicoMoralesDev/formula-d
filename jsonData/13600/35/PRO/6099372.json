@@ -5,17 +5,17 @@
   "color" : "#01416b",
   "igpTeamId" : 212639,
   "teamName" : "Red Bull Racing",
-  "totalPoints" : 24,
+  "totalPoints" : 8,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 39,
+    "id" : 58,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 26,
     "AUSTRALIA" : 6,
     "MALAYSIA" : 23
   },
   "eventsPoints" : {
+    "CHINA" : 0,
     "AUSTRALIA" : 8,
     "MALAYSIA" : 0
   }

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1827563,
+  "igpManagerId" : 1827556,
+  "teamName" : "SPORT TITAN RACING",
+  "nationality" : "mx",
+  "color" : "#ff0202",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
+  "drivers" : [ 7505812, 7505811 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 18,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "CHINA" : 0
+  }
+}

@@ -5,17 +5,17 @@
   "color" : "#336633",
   "igpTeamId" : 709283,
   "teamName" : "Zorrencos GP",
-  "totalPoints" : 46,
+  "totalPoints" : 22,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 37,
+    "id" : 54,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 19,
     "AUSTRALIA" : 4,
     "MALAYSIA" : 5
   },
   "eventsPoints" : {
+    "CHINA" : 0,
     "AUSTRALIA" : 12,
     "MALAYSIA" : 10
   }

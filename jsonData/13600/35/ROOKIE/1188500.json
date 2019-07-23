@@ -5,18 +5,18 @@
   "nationality" : "mx",
   "color" : "#c7c7c7",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/1188500s.png?1543112316",
-  "drivers" : [ 7290981, 7290980 ],
+  "drivers" : [ 7290980, 7290981 ],
   "totalPoints" : 0,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 7,
+    "id" : 14,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,6 +28,7 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "CHINA" : 0,
     "AUSTRALIA" : 0,
     "MALAYSIA" : 0
   }

@@ -5,17 +5,17 @@
   "color" : "#081fdb",
   "igpTeamId" : 553935,
   "teamName" : "Giant team",
-  "totalPoints" : 3,
+  "totalPoints" : 7,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 10,
+    "id" : 16,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 7,
     "AUSTRALIA" : 10,
     "MALAYSIA" : 18
   },
   "eventsPoints" : {
+    "CHINA" : 6,
     "AUSTRALIA" : 1,
     "MALAYSIA" : 0
   }

@@ -5,17 +5,17 @@
   "color" : "#dd8306",
   "igpTeamId" : 273722,
   "teamName" : "Fuerza Mexicana F1 TEAM",
-  "totalPoints" : 3,
+  "totalPoints" : 1,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 43,
+    "id" : 64,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,10 +27,12 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "CHINA" : 21,
     "AUSTRALIA" : 10,
     "MALAYSIA" : 11
   },
   "eventsPoints" : {
+    "CHINA" : 0,
     "AUSTRALIA" : 1,
     "MALAYSIA" : 0
   }
