@@ -5,13 +5,13 @@
   "color" : "#ff0f0f",
   "igpTeamId" : 1401592,
   "teamName" : "Valle del Kas",
-  "totalPoints" : 32,
+  "totalPoints" : 42,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 1,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "CHINA" : 5,
     "AUSTRALIA" : 5,
-    "MALAYSIA" : 4
+    "MALAYSIA" : 4,
+    "BAHRAIN" : 5
   },
   "eventsPoints" : {
     "CHINA" : 10,
     "AUSTRALIA" : 10,
-    "MALAYSIA" : 12
+    "MALAYSIA" : 12,
+    "BAHRAIN" : 10
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#ababab",
   "igpTeamId" : 883901,
   "teamName" : "Scudería Pagani",
-  "totalPoints" : 22,
+  "totalPoints" : 28,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 2,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "CHINA" : 4,
     "AUSTRALIA" : 5,
-    "MALAYSIA" : 26
+    "MALAYSIA" : 26,
+    "BAHRAIN" : 7
   },
   "eventsPoints" : {
     "CHINA" : 12,
     "AUSTRALIA" : 10,
-    "MALAYSIA" : 0
+    "MALAYSIA" : 0,
+    "BAHRAIN" : 6
   }
 }

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1829502,
+  "igpManagerId" : null,
+  "teamName" : "Camarón De La Isla Racing Team",
+  "nationality" : "es",
+  "color" : "#007fff",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1829502s.png?1563922721",
+  "drivers" : [ 7390278, 6975986 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 3,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "BAHRAIN" : 0
+  }
+}
