@@ -5,17 +5,17 @@
   "color" : "#270af4",
   "igpTeamId" : 56199,
   "teamName" : "Peugeot Sport",
-  "totalPoints" : 41,
+  "totalPoints" : 53,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 2,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 5,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 51,
+    "id" : 49,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,15 +27,17 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "SPAIN" : 4,
     "CHINA" : 6,
-    "AUSTRALIA" : 27,
+    "BAHRAIN" : 3,
     "MALAYSIA" : 2,
-    "BAHRAIN" : 3
+    "AUSTRALIA" : 27
   },
   "eventsPoints" : {
+    "SPAIN" : 12,
     "CHINA" : 8,
-    "AUSTRALIA" : 0,
+    "BAHRAIN" : 15,
     "MALAYSIA" : 18,
-    "BAHRAIN" : 15
+    "AUSTRALIA" : 0
   }
 }

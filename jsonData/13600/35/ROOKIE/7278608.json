@@ -4,18 +4,18 @@
   "nationality" : "ru",
   "color" : "#bc2949",
   "igpTeamId" : 1738678,
-  "teamName" : "Nissan Terao",
+  "teamName" : "Nissan Primera",
   "totalPoints" : 8,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
   "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 5,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 17,
+    "id" : 10,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,15 +27,17 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "SPAIN" : 11,
     "CHINA" : 11,
-    "AUSTRALIA" : 11,
+    "BAHRAIN" : 9,
     "MALAYSIA" : 7,
-    "BAHRAIN" : 9
+    "AUSTRALIA" : 11
   },
   "eventsPoints" : {
+    "SPAIN" : 0,
     "CHINA" : 0,
-    "AUSTRALIA" : 0,
+    "BAHRAIN" : 2,
     "MALAYSIA" : 6,
-    "BAHRAIN" : 2
+    "AUSTRALIA" : 0
   }
 }

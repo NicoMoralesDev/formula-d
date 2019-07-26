@@ -5,18 +5,18 @@
   "nationality" : "ar",
   "color" : "#f883ef",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/86685s.png?1559230719",
-  "drivers" : [ 5038297, 6746499 ],
-  "totalPoints" : 12,
+  "drivers" : [ 6746499, 5038297 ],
+  "totalPoints" : 27,
   "wins" : 0,
   "poles" : 0,
-  "podiums" : 0,
-  "topTens" : 2,
+  "podiums" : 1,
+  "topTens" : 3,
   "fastestLaps" : 2,
-  "participations" : 8,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 44,
+    "id" : 41,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,9 +28,10 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "SPAIN" : 15,
     "CHINA" : 8,
-    "AUSTRALIA" : 4,
+    "BAHRAIN" : 0,
     "MALAYSIA" : 0,
-    "BAHRAIN" : 0
+    "AUSTRALIA" : 4
   }
 }

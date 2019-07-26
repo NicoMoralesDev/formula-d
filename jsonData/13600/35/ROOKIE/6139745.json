@@ -15,7 +15,7 @@
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 25,
+    "id" : 23,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,12 +28,12 @@
   },
   "eventsPositions" : {
     "CHINA" : 19,
-    "AUSTRALIA" : 18,
-    "MALAYSIA" : 15
+    "MALAYSIA" : 15,
+    "AUSTRALIA" : 18
   },
   "eventsPoints" : {
     "CHINA" : 0,
-    "AUSTRALIA" : 0,
-    "MALAYSIA" : 0
+    "MALAYSIA" : 0,
+    "AUSTRALIA" : 0
   }
 }

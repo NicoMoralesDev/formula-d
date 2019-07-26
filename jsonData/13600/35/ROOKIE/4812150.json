@@ -4,18 +4,18 @@
   "nationality" : "gb",
   "color" : "#081fdb",
   "igpTeamId" : 553935,
-  "teamName" : "Giant team",
-  "totalPoints" : 3,
+  "teamName" : "Chevrolet Sport team",
+  "totalPoints" : 4,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 2,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 5,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 19,
+    "id" : 15,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,15 +27,17 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "SPAIN" : 10,
     "CHINA" : 10,
-    "AUSTRALIA" : 9,
+    "BAHRAIN" : 21,
     "MALAYSIA" : 19,
-    "BAHRAIN" : 21
+    "AUSTRALIA" : 9
   },
   "eventsPoints" : {
+    "SPAIN" : 1,
     "CHINA" : 1,
-    "AUSTRALIA" : 2,
+    "BAHRAIN" : 0,
     "MALAYSIA" : 0,
-    "BAHRAIN" : 0
+    "AUSTRALIA" : 2
   }
 }

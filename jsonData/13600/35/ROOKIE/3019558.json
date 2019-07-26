@@ -3,7 +3,7 @@
   "driverName" : "D Fridleifsdottir",
   "nationality" : "is",
   "color" : "#ff8000",
-  "igpTeamId" : 1824457,
+  "igpTeamId" : 1809093,
   "teamName" : "SMontenegro IGP Team",
   "totalPoints" : 1,
   "wins" : 0,
@@ -15,7 +15,7 @@
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 119,
+    "id" : 120,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,11 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "AUSTRALIA" : 17,
-    "MALAYSIA" : 10
+    "MALAYSIA" : 10,
+    "AUSTRALIA" : 17
   },
   "eventsPoints" : {
-    "AUSTRALIA" : 0,
-    "MALAYSIA" : 1
+    "MALAYSIA" : 1,
+    "AUSTRALIA" : 0
   }
 }

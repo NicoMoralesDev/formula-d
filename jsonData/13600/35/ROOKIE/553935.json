@@ -1,22 +1,22 @@
 {
   "igpTeamId" : 553935,
   "igpManagerId" : 553927,
-  "teamName" : "Giant team",
+  "teamName" : "Chevrolet Sport team",
   "nationality" : "ar",
   "color" : "#081fdb",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/553935s.png?1552615059",
-  "drivers" : [ 5195894, 4812150 ],
-  "totalPoints" : 10,
+  "drivers" : [ 5195894, 4812150, 5225625 ],
+  "totalPoints" : 13,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 9,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 8,
+    "id" : 7,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,9 +28,10 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "SPAIN" : 3,
     "CHINA" : 7,
-    "AUSTRALIA" : 3,
+    "BAHRAIN" : 0,
     "MALAYSIA" : 0,
-    "BAHRAIN" : 0
+    "AUSTRALIA" : 3
   }
 }

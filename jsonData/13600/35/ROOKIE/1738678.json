@@ -1,7 +1,7 @@
 {
   "igpTeamId" : 1738678,
   "igpManagerId" : 1738671,
-  "teamName" : "Nissan Terao",
+  "teamName" : "Nissan Primera",
   "nationality" : "es",
   "color" : "#bc2949",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
@@ -12,11 +12,11 @@
   "podiums" : 0,
   "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 7,
+    "id" : 5,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,9 +28,10 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "SPAIN" : 0,
     "CHINA" : 4,
-    "AUSTRALIA" : 0,
+    "BAHRAIN" : 8,
     "MALAYSIA" : 14,
-    "BAHRAIN" : 8
+    "AUSTRALIA" : 0
   }
 }

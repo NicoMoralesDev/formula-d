@@ -1,6 +1,6 @@
 {
   "igpTeamId" : 1829644,
-  "igpManagerId" : null,
+  "igpManagerId" : 1829637,
   "teamName" : "Escudería steel",
   "nationality" : "es",
   "color" : "#d5d5d5",
@@ -12,11 +12,11 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 0,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 2,
+    "id" : 20,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,6 +28,7 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "SPAIN" : 0,
     "BAHRAIN" : 0
   }
 }

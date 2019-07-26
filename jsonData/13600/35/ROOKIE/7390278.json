@@ -1,6 +1,6 @@
 {
   "igpDriverId" : 7390278,
-  "driverName" : "J Lopez",
+  "driverName" : "Jose Maria",
   "nationality" : "ar",
   "color" : "#007fff",
   "igpTeamId" : 1829502,
@@ -11,11 +11,11 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 1,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 5,
+    "id" : 32,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "SPAIN" : 23,
     "BAHRAIN" : 23
   },
   "eventsPoints" : {
+    "SPAIN" : 0,
     "BAHRAIN" : 0
   }
 }

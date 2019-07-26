@@ -1,6 +1,6 @@
 {
   "igpDriverId" : 7512241,
-  "driverName" : "R Torres",
+  "driverName" : "Ruben Torres",
   "nationality" : "es",
   "color" : "#d5d5d5",
   "igpTeamId" : 1829644,
@@ -11,11 +11,11 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 1,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 3,
+    "id" : 39,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
+    "SPAIN" : 28,
     "BAHRAIN" : 13
   },
   "eventsPoints" : {
+    "SPAIN" : 0,
     "BAHRAIN" : 0
   }
 }

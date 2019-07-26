@@ -1,10 +1,10 @@
 {
   "igpTeamId" : 273722,
   "igpManagerId" : 273714,
-  "teamName" : "Fuerza Mexicana F1 TEAM",
+  "teamName" : "Andrea Moda",
   "nationality" : "mx",
-  "color" : "#dd8306",
-  "carImage" : "https://igpmanager.azureedge.net/igp/livery/273722s.png?1556681763",
+  "color" : "#000000",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/273722s.png?1564083422",
   "drivers" : [ 5237000, 7034569, 7456960 ],
   "totalPoints" : 1,
   "wins" : 0,
@@ -12,11 +12,11 @@
   "podiums" : 0,
   "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 30,
+    "id" : 32,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,9 +28,10 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "SPAIN" : 0,
     "CHINA" : 0,
-    "AUSTRALIA" : 1,
+    "BAHRAIN" : 0,
     "MALAYSIA" : 0,
-    "BAHRAIN" : 0
+    "AUSTRALIA" : 1
   }
 }
