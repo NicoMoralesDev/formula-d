@@ -5,13 +5,13 @@
   "color" : "#081fdb",
   "igpTeamId" : 553935,
   "teamName" : "Chevrolet Sport team",
-  "totalPoints" : 4,
+  "totalPoints" : 6,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "CHINA" : 10,
     "BAHRAIN" : 21,
     "MALAYSIA" : 19,
-    "AUSTRALIA" : 9
+    "AUSTRALIA" : 9,
+    "MONACO" : 9
   },
   "eventsPoints" : {
     "SPAIN" : 1,
     "CHINA" : 1,
     "BAHRAIN" : 0,
     "MALAYSIA" : 0,
-    "AUSTRALIA" : 2
+    "AUSTRALIA" : 2,
+    "MONACO" : 2
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#084eb7",
   "igpTeamId" : 1123049,
   "teamName" : "AMP Fiat",
-  "totalPoints" : 0,
+  "totalPoints" : 4,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "CHINA" : 14,
     "BAHRAIN" : 27,
     "MALAYSIA" : 19,
-    "AUSTRALIA" : 28
+    "AUSTRALIA" : 28,
+    "MONACO" : 8
   },
   "eventsPoints" : {
     "SPAIN" : 0,
     "CHINA" : 0,
     "BAHRAIN" : 0,
     "MALAYSIA" : 0,
-    "AUSTRALIA" : 0
+    "AUSTRALIA" : 0,
+    "MONACO" : 4
   }
 }

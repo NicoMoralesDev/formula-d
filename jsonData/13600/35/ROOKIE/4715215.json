@@ -5,13 +5,13 @@
   "color" : "#209455",
   "igpTeamId" : 721044,
   "teamName" : "Miklaren",
-  "totalPoints" : 15,
+  "totalPoints" : 25,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 1,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 1,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "SPAIN" : 14,
-    "BAHRAIN" : 3
+    "BAHRAIN" : 3,
+    "MONACO" : 5
   },
   "eventsPoints" : {
     "SPAIN" : 0,
-    "BAHRAIN" : 15
+    "BAHRAIN" : 15,
+    "MONACO" : 10
   }
 }

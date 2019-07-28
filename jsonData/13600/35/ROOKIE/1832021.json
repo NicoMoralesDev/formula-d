@@ -1,22 +1,22 @@
 {
-  "igpTeamId" : 1645067,
-  "igpManagerId" : 1645060,
-  "teamName" : "Termopilas Team",
+  "igpTeamId" : 1832021,
+  "igpManagerId" : null,
+  "teamName" : "Daanielmorcillo",
   "nationality" : "es",
-  "color" : "#f8c600",
-  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1645067s.png?1556808019",
-  "drivers" : [ 7056065, 3238298 ],
+  "color" : "#0025ff",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
+  "drivers" : [ 7520794, 7520795 ],
   "totalPoints" : 0,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 12,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 34,
+    "id" : 1,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,11 +28,6 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
-    "SPAIN" : 0,
-    "CHINA" : 0,
-    "BAHRAIN" : 0,
-    "MALAYSIA" : 0,
-    "AUSTRALIA" : 0,
     "MONACO" : 0
   }
 }

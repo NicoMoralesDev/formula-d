@@ -6,13 +6,13 @@
   "color" : "#fc0303",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/676200s.png?1563296711",
   "drivers" : [ 5088992, 5138614 ],
-  "totalPoints" : 30,
+  "totalPoints" : 32,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 6,
+  "topTens" : 7,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 12,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -32,6 +32,7 @@
     "CHINA" : 1,
     "BAHRAIN" : 1,
     "MALAYSIA" : 22,
-    "AUSTRALIA" : 2
+    "AUSTRALIA" : 2,
+    "MONACO" : 2
   }
 }

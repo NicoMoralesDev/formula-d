@@ -5,13 +5,13 @@
   "color" : "#000000",
   "igpTeamId" : 273722,
   "teamName" : "Andrea Moda",
-  "totalPoints" : 0,
+  "totalPoints" : 1,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "CHINA" : 25,
     "BAHRAIN" : 30,
     "MALAYSIA" : 14,
-    "AUSTRALIA" : 12
+    "AUSTRALIA" : 12,
+    "MONACO" : 10
   },
   "eventsPoints" : {
     "SPAIN" : 0,
     "CHINA" : 0,
     "BAHRAIN" : 0,
     "MALAYSIA" : 0,
-    "AUSTRALIA" : 0
+    "AUSTRALIA" : 0,
+    "MONACO" : 1
   }
 }
