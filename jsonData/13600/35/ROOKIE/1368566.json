@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1368566,
+  "igpManagerId" : 1368559,
+  "teamName" : "Yisus Mahindra Team",
+  "nationality" : "es",
+  "color" : "#ff00fc",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1368566s.png?1562708795",
+  "drivers" : [ 6069287, 6203563 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 22,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "TURKEY" : 0
+  }
+}

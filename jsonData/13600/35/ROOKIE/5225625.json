@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "SPAIN" : 9,
+    "TURKEY" : 12,
     "MONACO" : 10
   },
   "eventsPoints" : {
     "SPAIN" : 2,
+    "TURKEY" : 0,
     "MONACO" : 1
   }
 }

@@ -29,15 +29,15 @@
   "eventsPositions" : {
     "SPAIN" : 19,
     "CHINA" : 15,
-    "BAHRAIN" : 10,
     "MALAYSIA" : 11,
-    "AUSTRALIA" : 13
+    "AUSTRALIA" : 13,
+    "BAHRAIN" : 10
   },
   "eventsPoints" : {
     "SPAIN" : 0,
     "CHINA" : 0,
-    "BAHRAIN" : 1,
     "MALAYSIA" : 0,
-    "AUSTRALIA" : 0
+    "AUSTRALIA" : 0,
+    "BAHRAIN" : 1
   }
 }

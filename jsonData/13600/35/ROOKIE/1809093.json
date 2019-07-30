@@ -1,9 +1,9 @@
 {
   "igpTeamId" : 1809093,
   "igpManagerId" : null,
-  "teamName" : "SMontenegro IGP Team",
+  "teamName" : "Pain GP",
   "nationality" : "ru",
-  "color" : "#ff8000",
+  "color" : "#4aa62a",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/1809093s.png?1563463295",
   "drivers" : [ 3019558 ],
   "totalPoints" : 1,
@@ -16,7 +16,7 @@
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 54,
+    "id" : 57,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,

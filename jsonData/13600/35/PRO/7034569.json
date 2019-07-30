@@ -11,11 +11,11 @@
   "podiums" : 0,
   "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 6,
+  "participations" : 7,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 70,
+    "id" : 74,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -29,17 +29,19 @@
   "eventsPositions" : {
     "SPAIN" : 22,
     "CHINA" : 25,
-    "BAHRAIN" : 30,
     "MALAYSIA" : 14,
+    "TURKEY" : 14,
+    "MONACO" : 10,
     "AUSTRALIA" : 12,
-    "MONACO" : 10
+    "BAHRAIN" : 30
   },
   "eventsPoints" : {
     "SPAIN" : 0,
     "CHINA" : 0,
-    "BAHRAIN" : 0,
     "MALAYSIA" : 0,
+    "TURKEY" : 0,
+    "MONACO" : 1,
     "AUSTRALIA" : 0,
-    "MONACO" : 1
+    "BAHRAIN" : 0
   }
 }
