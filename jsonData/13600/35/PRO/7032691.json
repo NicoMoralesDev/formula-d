@@ -5,13 +5,13 @@
   "color" : "#909090",
   "igpTeamId" : 1124196,
   "teamName" : "Teku Team",
-  "totalPoints" : 61,
+  "totalPoints" : 63,
   "wins" : 1,
   "poles" : 0,
   "podiums" : 3,
-  "topTens" : 4,
+  "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 9,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -34,7 +34,8 @@
     "MALAYSIA" : 3,
     "TURKEY" : 7,
     "BAHRAIN" : 31,
-    "AUSTRALIA" : 3
+    "AUSTRALIA" : 3,
+    "GERMANY" : 9
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -44,6 +45,7 @@
     "MALAYSIA" : 15,
     "TURKEY" : 6,
     "BAHRAIN" : 0,
-    "AUSTRALIA" : 15
+    "AUSTRALIA" : 15,
+    "GERMANY" : 2
   }
 }

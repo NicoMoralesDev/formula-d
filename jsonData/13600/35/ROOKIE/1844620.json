@@ -1,10 +1,11 @@
 {
-  "igpDriverId" : 7552780,
-  "driverName" : "Isabel Arenas",
-  "nationality" : "es",
-  "color" : "#58f58f",
-  "igpTeamId" : 1842894,
-  "teamName" : "Vakyrie Racing Spears",
+  "igpTeamId" : 1844620,
+  "igpManagerId" : null,
+  "teamName" : "Toro Rosso",
+  "nationality" : "us",
+  "color" : "#333366",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1844620s.png?1564542208",
+  "drivers" : [ 7557953, 7558167 ],
   "totalPoints" : 0,
   "wins" : 0,
   "poles" : 0,
@@ -15,7 +16,7 @@
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 55,
+    "id" : 1,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -26,12 +27,7 @@
     "participations" : 0,
     "finishedRaces" : 0
   },
-  "eventsPositions" : {
-    "GREATBRITAIN19" : 17,
-    "GERMANY" : 29
-  },
   "eventsPoints" : {
-    "GREATBRITAIN19" : 0,
     "GERMANY" : 0
   }
 }

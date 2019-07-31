@@ -7,11 +7,11 @@
   "teamName" : "Scudería Pagani",
   "totalPoints" : 40,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 9,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -34,7 +34,8 @@
     "MALAYSIA" : 26,
     "TURKEY" : 13,
     "BAHRAIN" : 7,
-    "AUSTRALIA" : 5
+    "AUSTRALIA" : 5,
+    "GERMANY" : 12
   },
   "eventsPoints" : {
     "CHINA" : 12,
@@ -44,6 +45,7 @@
     "MALAYSIA" : 0,
     "TURKEY" : 0,
     "BAHRAIN" : 6,
-    "AUSTRALIA" : 10
+    "AUSTRALIA" : 10,
+    "GERMANY" : 0
   }
 }

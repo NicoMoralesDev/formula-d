@@ -9,10 +9,10 @@
   "totalPoints" : 77,
   "wins" : 0,
   "poles" : 0,
-  "podiums" : 0,
-  "topTens" : 0,
-  "fastestLaps" : 0,
-  "participations" : 0,
+  "podiums" : 1,
+  "topTens" : 9,
+  "fastestLaps" : 2,
+  "participations" : 12,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -32,6 +32,7 @@
     "GREATBRITAIN19" : 18,
     "SPAIN" : 4,
     "TURKEY" : 14,
-    "BAHRAIN" : 23
+    "BAHRAIN" : 23,
+    "GERMANY" : 0
   }
 }

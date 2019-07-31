@@ -5,13 +5,13 @@
   "color" : "#909090",
   "igpTeamId" : 1124196,
   "teamName" : "Teku Team",
-  "totalPoints" : 0,
+  "totalPoints" : 15,
   "wins" : 0,
-  "poles" : 0,
-  "podiums" : 0,
-  "topTens" : 0,
+  "poles" : 1,
+  "podiums" : 1,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 0,
+  "participations" : 1,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -26,6 +26,10 @@
     "participations" : 0,
     "finishedRaces" : 0
   },
-  "eventsPositions" : { },
-  "eventsPoints" : { }
+  "eventsPositions" : {
+    "GERMANY" : 3
+  },
+  "eventsPoints" : {
+    "GERMANY" : 15
+  }
 }

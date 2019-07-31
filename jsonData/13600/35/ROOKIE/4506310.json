@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "GREATBRITAIN19" : 6,
     "SPAIN" : 8,
     "TURKEY" : 7,
-    "BAHRAIN" : 6
+    "BAHRAIN" : 6,
+    "GERMANY" : 13
   },
   "eventsPoints" : {
     "MONACO" : 8,
     "GREATBRITAIN19" : 8,
     "SPAIN" : 4,
     "TURKEY" : 6,
-    "BAHRAIN" : 8
+    "BAHRAIN" : 8,
+    "GERMANY" : 0
   }
 }
