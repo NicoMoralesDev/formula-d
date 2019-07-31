@@ -5,13 +5,13 @@
   "color" : "#b90101",
   "igpTeamId" : 710570,
   "teamName" : "Nissan Terao",
-  "totalPoints" : 158,
-  "wins" : 5,
+  "totalPoints" : 183,
+  "wins" : 6,
   "poles" : 2,
-  "podiums" : 7,
-  "topTens" : 7,
+  "podiums" : 8,
+  "topTens" : 8,
   "fastestLaps" : 1,
-  "participations" : 7,
+  "participations" : 8,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,21 +27,23 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "SPAIN" : 1,
     "CHINA" : 1,
+    "MONACO" : 1,
+    "GREATBRITAIN19" : 1,
+    "SPAIN" : 1,
     "MALAYSIA" : 1,
     "TURKEY" : 1,
-    "MONACO" : 1,
-    "AUSTRALIA" : 3,
-    "BAHRAIN" : 2
+    "BAHRAIN" : 2,
+    "AUSTRALIA" : 3
   },
   "eventsPoints" : {
-    "SPAIN" : 25,
     "CHINA" : 25,
+    "MONACO" : 25,
+    "GREATBRITAIN19" : 25,
+    "SPAIN" : 25,
     "MALAYSIA" : 25,
     "TURKEY" : 25,
-    "MONACO" : 25,
-    "AUSTRALIA" : 15,
-    "BAHRAIN" : 18
+    "BAHRAIN" : 18,
+    "AUSTRALIA" : 15
   }
 }

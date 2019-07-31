@@ -5,17 +5,17 @@
   "color" : "#ababab",
   "igpTeamId" : 883901,
   "teamName" : "Scudería Pagani",
-  "totalPoints" : 0,
+  "totalPoints" : 4,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 0,
+  "participations" : 1,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 124,
+    "id" : 114,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -26,6 +26,10 @@
     "participations" : 0,
     "finishedRaces" : 0
   },
-  "eventsPositions" : { },
-  "eventsPoints" : { }
+  "eventsPositions" : {
+    "GREATBRITAIN19" : 8
+  },
+  "eventsPoints" : {
+    "GREATBRITAIN19" : 4
+  }
 }

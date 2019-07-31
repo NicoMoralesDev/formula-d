@@ -5,17 +5,17 @@
   "color" : "#663333",
   "igpTeamId" : 1129537,
   "teamName" : "Bmw racing team",
-  "totalPoints" : 9,
+  "totalPoints" : 15,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 7,
+  "participations" : 8,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 67,
+    "id" : 70,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,21 +27,23 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "SPAIN" : 10,
     "CHINA" : 7,
+    "MONACO" : 23,
+    "GREATBRITAIN19" : 7,
+    "SPAIN" : 10,
     "MALAYSIA" : 22,
     "TURKEY" : 11,
-    "MONACO" : 23,
-    "AUSTRALIA" : 13,
-    "BAHRAIN" : 9
+    "BAHRAIN" : 9,
+    "AUSTRALIA" : 13
   },
   "eventsPoints" : {
-    "SPAIN" : 1,
     "CHINA" : 6,
+    "MONACO" : 0,
+    "GREATBRITAIN19" : 6,
+    "SPAIN" : 1,
     "MALAYSIA" : 0,
     "TURKEY" : 0,
-    "MONACO" : 0,
-    "AUSTRALIA" : 0,
-    "BAHRAIN" : 2
+    "BAHRAIN" : 2,
+    "AUSTRALIA" : 0
   }
 }

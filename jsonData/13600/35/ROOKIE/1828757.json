@@ -12,11 +12,11 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 0,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 12,
+    "id" : 11,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,10 +28,11 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
-    "SPAIN" : 0,
     "CHINA" : 0,
-    "TURKEY" : 0,
     "MONACO" : 0,
+    "GREATBRITAIN19" : 0,
+    "SPAIN" : 0,
+    "TURKEY" : 0,
     "BAHRAIN" : 0
   }
 }

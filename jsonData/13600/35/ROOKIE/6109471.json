@@ -5,17 +5,17 @@
   "color" : "#ff0f0f",
   "igpTeamId" : 1401592,
   "teamName" : "Valle del Kas",
-  "totalPoints" : 70,
+  "totalPoints" : 88,
   "wins" : 0,
   "poles" : 0,
-  "podiums" : 0,
-  "topTens" : 7,
+  "podiums" : 1,
+  "topTens" : 8,
   "fastestLaps" : 3,
-  "participations" : 7,
+  "participations" : 8,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 5,
+    "id" : 4,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,21 +27,23 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "SPAIN" : 4,
     "CHINA" : 5,
+    "MONACO" : 7,
+    "GREATBRITAIN19" : 2,
+    "SPAIN" : 4,
     "MALAYSIA" : 4,
     "TURKEY" : 5,
-    "MONACO" : 7,
-    "AUSTRALIA" : 5,
-    "BAHRAIN" : 5
+    "BAHRAIN" : 5,
+    "AUSTRALIA" : 5
   },
   "eventsPoints" : {
-    "SPAIN" : 12,
     "CHINA" : 10,
+    "MONACO" : 6,
+    "GREATBRITAIN19" : 18,
+    "SPAIN" : 12,
     "MALAYSIA" : 12,
     "TURKEY" : 10,
-    "MONACO" : 6,
-    "AUSTRALIA" : 10,
-    "BAHRAIN" : 10
+    "BAHRAIN" : 10,
+    "AUSTRALIA" : 10
   }
 }

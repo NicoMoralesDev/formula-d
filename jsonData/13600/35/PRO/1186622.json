@@ -1,0 +1,40 @@
+{
+  "igpTeamId" : 1186622,
+  "igpManagerId" : null,
+  "teamName" : "Teku Team",
+  "nationality" : "tr",
+  "color" : "#909090",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1186622s.png?1541091681",
+  "drivers" : [ 5252180 ],
+  "totalPoints" : 79,
+  "wins" : 2,
+  "poles" : 2,
+  "podiums" : 3,
+  "topTens" : 5,
+  "fastestLaps" : 0,
+  "participations" : 8,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 60,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "CHINA" : 0,
+    "MONACO" : 18,
+    "GREATBRITAIN19" : 10,
+    "SPAIN" : 0,
+    "MALAYSIA" : 25,
+    "TURKEY" : 1,
+    "BAHRAIN" : 0,
+    "AUSTRALIA" : 25
+  }
+}

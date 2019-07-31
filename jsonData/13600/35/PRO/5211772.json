@@ -5,17 +5,17 @@
   "color" : "#f8ac0a",
   "igpTeamId" : 770045,
   "teamName" : "MclataTEAM F1",
-  "totalPoints" : 0,
+  "totalPoints" : 8,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 7,
+  "participations" : 8,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 80,
+    "id" : 72,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,21 +27,23 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "SPAIN" : 20,
     "CHINA" : 17,
+    "MONACO" : 19,
+    "GREATBRITAIN19" : 6,
+    "SPAIN" : 20,
     "MALAYSIA" : 25,
     "TURKEY" : 24,
-    "MONACO" : 19,
-    "AUSTRALIA" : 14,
-    "BAHRAIN" : 22
+    "BAHRAIN" : 22,
+    "AUSTRALIA" : 14
   },
   "eventsPoints" : {
-    "SPAIN" : 0,
     "CHINA" : 0,
+    "MONACO" : 0,
+    "GREATBRITAIN19" : 8,
+    "SPAIN" : 0,
     "MALAYSIA" : 0,
     "TURKEY" : 0,
-    "MONACO" : 0,
-    "AUSTRALIA" : 0,
-    "BAHRAIN" : 0
+    "BAHRAIN" : 0,
+    "AUSTRALIA" : 0
   }
 }

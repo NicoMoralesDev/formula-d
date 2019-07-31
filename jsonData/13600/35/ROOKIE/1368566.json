@@ -1,7 +1,7 @@
 {
   "igpTeamId" : 1368566,
   "igpManagerId" : 1368559,
-  "teamName" : "Yisus Mahindra Team",
+  "teamName" : "Yisus Team",
   "nationality" : "es",
   "color" : "#ff00fc",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/1368566s.png?1562708795",
@@ -16,7 +16,7 @@
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 22,
+    "id" : 17,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,6 +28,7 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
+    "GREATBRITAIN19" : 0,
     "TURKEY" : 0
   }
 }

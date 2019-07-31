@@ -5,17 +5,17 @@
   "color" : "#396f0f",
   "igpTeamId" : 1324490,
   "teamName" : "AL ANDALUS Racing team",
-  "totalPoints" : 0,
+  "totalPoints" : 18,
   "wins" : 0,
   "poles" : 0,
-  "podiums" : 0,
-  "topTens" : 0,
+  "podiums" : 1,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 7,
+  "participations" : 8,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 120,
+    "id" : 103,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,21 +27,23 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "SPAIN" : 33,
     "CHINA" : 32,
+    "MONACO" : 34,
+    "GREATBRITAIN19" : 2,
+    "SPAIN" : 33,
     "MALAYSIA" : 27,
     "TURKEY" : 34,
-    "MONACO" : 34,
-    "AUSTRALIA" : 34,
-    "BAHRAIN" : 33
+    "BAHRAIN" : 33,
+    "AUSTRALIA" : 34
   },
   "eventsPoints" : {
-    "SPAIN" : 0,
     "CHINA" : 0,
+    "MONACO" : 0,
+    "GREATBRITAIN19" : 18,
+    "SPAIN" : 0,
     "MALAYSIA" : 0,
     "TURKEY" : 0,
-    "MONACO" : 0,
-    "AUSTRALIA" : 0,
-    "BAHRAIN" : 0
+    "BAHRAIN" : 0,
+    "AUSTRALIA" : 0
   }
 }

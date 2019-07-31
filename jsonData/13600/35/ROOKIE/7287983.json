@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 7,
+  "participations" : 8,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,21 +27,23 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "SPAIN" : 13,
     "CHINA" : 8,
+    "MONACO" : 13,
+    "GREATBRITAIN19" : 11,
+    "SPAIN" : 13,
     "MALAYSIA" : 6,
     "TURKEY" : 8,
-    "MONACO" : 13,
-    "AUSTRALIA" : 12,
-    "BAHRAIN" : 7
+    "BAHRAIN" : 7,
+    "AUSTRALIA" : 12
   },
   "eventsPoints" : {
-    "SPAIN" : 0,
     "CHINA" : 4,
+    "MONACO" : 0,
+    "GREATBRITAIN19" : 0,
+    "SPAIN" : 0,
     "MALAYSIA" : 8,
     "TURKEY" : 4,
-    "MONACO" : 0,
-    "AUSTRALIA" : 0,
-    "BAHRAIN" : 6
+    "BAHRAIN" : 6,
+    "AUSTRALIA" : 0
   }
 }

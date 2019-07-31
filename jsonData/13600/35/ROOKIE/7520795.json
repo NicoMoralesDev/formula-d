@@ -15,7 +15,7 @@
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 40,
+    "id" : 41,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,11 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "TURKEY" : 27,
-    "MONACO" : 20
+    "MONACO" : 20,
+    "TURKEY" : 27
   },
   "eventsPoints" : {
-    "TURKEY" : 0,
-    "MONACO" : 0
+    "MONACO" : 0,
+    "TURKEY" : 0
   }
 }

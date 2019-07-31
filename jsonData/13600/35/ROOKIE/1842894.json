@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1842894,
+  "igpManagerId" : 1842887,
+  "teamName" : "Vakyrie Racing Spears",
+  "nationality" : "es",
+  "color" : "#58f58f",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
+  "drivers" : [ 7552780, 7552779 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 0,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 25,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "GREATBRITAIN19" : 0
+  }
+}

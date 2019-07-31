@@ -27,19 +27,19 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "SPAIN" : 25,
     "CHINA" : 23,
-    "MALAYSIA" : 29,
     "MONACO" : 30,
-    "AUSTRALIA" : 29,
-    "BAHRAIN" : 29
+    "SPAIN" : 25,
+    "MALAYSIA" : 29,
+    "BAHRAIN" : 29,
+    "AUSTRALIA" : 29
   },
   "eventsPoints" : {
-    "SPAIN" : 0,
     "CHINA" : 0,
-    "MALAYSIA" : 0,
     "MONACO" : 0,
-    "AUSTRALIA" : 0,
-    "BAHRAIN" : 0
+    "SPAIN" : 0,
+    "MALAYSIA" : 0,
+    "BAHRAIN" : 0,
+    "AUSTRALIA" : 0
   }
 }
