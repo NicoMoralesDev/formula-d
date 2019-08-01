@@ -12,7 +12,7 @@
   "podiums" : 0,
   "topTens" : 9,
   "fastestLaps" : 0,
-  "participations" : 14,
+  "participations" : 16,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,6 +36,7 @@
     "TURKEY" : 0,
     "BAHRAIN" : 0,
     "AUSTRALIA" : 3,
-    "GERMANY" : 2
+    "GERMANY" : 2,
+    "HUNGARY" : 0
   }
 }

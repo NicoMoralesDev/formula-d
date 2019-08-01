@@ -5,13 +5,13 @@
   "color" : "#b4497d",
   "igpTeamId" : 1554830,
   "teamName" : "Racing Star Point F1 Team",
-  "totalPoints" : 89,
+  "totalPoints" : 97,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 3,
-  "topTens" : 8,
+  "topTens" : 9,
   "fastestLaps" : 0,
-  "participations" : 9,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -35,7 +35,8 @@
     "TURKEY" : 3,
     "BAHRAIN" : 8,
     "AUSTRALIA" : 4,
-    "GERMANY" : 5
+    "GERMANY" : 5,
+    "HUNGARY" : 6
   },
   "eventsPoints" : {
     "CHINA" : 12,
@@ -46,6 +47,7 @@
     "TURKEY" : 15,
     "BAHRAIN" : 4,
     "AUSTRALIA" : 12,
-    "GERMANY" : 10
+    "GERMANY" : 10,
+    "HUNGARY" : 8
   }
 }

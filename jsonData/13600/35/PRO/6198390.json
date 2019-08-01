@@ -5,13 +5,13 @@
   "color" : "#081f67",
   "igpTeamId" : 325518,
   "teamName" : "CF MOTORSPORT",
-  "totalPoints" : 15,
+  "totalPoints" : 17,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 1,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 9,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -35,7 +35,8 @@
     "TURKEY" : 3,
     "BAHRAIN" : 13,
     "AUSTRALIA" : 16,
-    "GERMANY" : 11
+    "GERMANY" : 11,
+    "HUNGARY" : 9
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -46,6 +47,7 @@
     "TURKEY" : 15,
     "BAHRAIN" : 0,
     "AUSTRALIA" : 0,
-    "GERMANY" : 0
+    "GERMANY" : 0,
+    "HUNGARY" : 2
   }
 }

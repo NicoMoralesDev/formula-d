@@ -7,11 +7,11 @@
   "teamName" : "MclataTEAM F1",
   "totalPoints" : 2,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 9,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -35,7 +35,8 @@
     "TURKEY" : 26,
     "BAHRAIN" : 20,
     "AUSTRALIA" : 11,
-    "GERMANY" : 16
+    "GERMANY" : 16,
+    "HUNGARY" : 18
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -46,6 +47,7 @@
     "TURKEY" : 0,
     "BAHRAIN" : 0,
     "AUSTRALIA" : 0,
-    "GERMANY" : 0
+    "GERMANY" : 0,
+    "HUNGARY" : 0
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#f883ef",
   "igpTeamId" : 86685,
   "teamName" : "Patagonia Force Argentina",
-  "totalPoints" : 50,
+  "totalPoints" : 60,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 3,
-  "topTens" : 5,
-  "fastestLaps" : 3,
-  "participations" : 9,
+  "topTens" : 6,
+  "fastestLaps" : 4,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -35,7 +35,8 @@
     "TURKEY" : 3,
     "BAHRAIN" : 11,
     "AUSTRALIA" : 8,
-    "GERMANY" : 3
+    "GERMANY" : 3,
+    "HUNGARY" : 5
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -46,6 +47,7 @@
     "TURKEY" : 15,
     "BAHRAIN" : 0,
     "AUSTRALIA" : 4,
-    "GERMANY" : 15
+    "GERMANY" : 15,
+    "HUNGARY" : 10
   }
 }

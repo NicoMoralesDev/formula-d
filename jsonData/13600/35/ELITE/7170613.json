@@ -5,13 +5,13 @@
   "color" : "#ababab",
   "igpTeamId" : 883901,
   "teamName" : "Scudería Pagani",
-  "totalPoints" : 40,
+  "totalPoints" : 52,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 9,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -35,7 +35,8 @@
     "TURKEY" : 13,
     "BAHRAIN" : 7,
     "AUSTRALIA" : 5,
-    "GERMANY" : 12
+    "GERMANY" : 12,
+    "HUNGARY" : 4
   },
   "eventsPoints" : {
     "CHINA" : 12,
@@ -46,6 +47,7 @@
     "TURKEY" : 0,
     "BAHRAIN" : 6,
     "AUSTRALIA" : 10,
-    "GERMANY" : 0
+    "GERMANY" : 0,
+    "HUNGARY" : 12
   }
 }
