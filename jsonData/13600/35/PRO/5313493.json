@@ -7,11 +7,11 @@
   "teamName" : "Red Bull Racing",
   "totalPoints" : 6,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 11,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,7 +36,8 @@
     "BAHRAIN" : 23,
     "AUSTRALIA" : 7,
     "GERMANY" : 12,
-    "HUNGARY" : 12
+    "HUNGARY" : 12,
+    "EUROPE" : 17
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -48,6 +49,7 @@
     "BAHRAIN" : 0,
     "AUSTRALIA" : 6,
     "GERMANY" : 0,
-    "HUNGARY" : 0
+    "HUNGARY" : 0,
+    "EUROPE" : 0
   }
 }

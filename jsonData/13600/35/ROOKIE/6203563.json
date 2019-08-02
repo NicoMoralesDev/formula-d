@@ -5,13 +5,13 @@
   "color" : "#ff00fc",
   "igpTeamId" : 1368566,
   "teamName" : "Yisus Team",
-  "totalPoints" : 0,
+  "totalPoints" : 4,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 5,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -30,12 +30,14 @@
     "GREATBRITAIN19" : 30,
     "TURKEY" : 16,
     "GERMANY" : 17,
-    "HUNGARY" : 18
+    "HUNGARY" : 18,
+    "EUROPE" : 8
   },
   "eventsPoints" : {
     "GREATBRITAIN19" : 0,
     "TURKEY" : 0,
     "GERMANY" : 0,
-    "HUNGARY" : 0
+    "HUNGARY" : 0,
+    "EUROPE" : 4
   }
 }

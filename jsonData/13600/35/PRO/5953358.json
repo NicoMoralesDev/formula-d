@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 11,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,7 +36,8 @@
     "BAHRAIN" : 29,
     "AUSTRALIA" : 8,
     "GERMANY" : 26,
-    "HUNGARY" : 13
+    "HUNGARY" : 13,
+    "EUROPE" : 15
   },
   "eventsPoints" : {
     "CHINA" : 1,
@@ -48,6 +49,7 @@
     "BAHRAIN" : 0,
     "AUSTRALIA" : 4,
     "GERMANY" : 0,
-    "HUNGARY" : 0
+    "HUNGARY" : 0,
+    "EUROPE" : 0
   }
 }

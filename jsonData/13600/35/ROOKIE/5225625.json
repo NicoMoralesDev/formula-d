@@ -5,13 +5,13 @@
   "color" : "#081fdb",
   "igpTeamId" : 553935,
   "teamName" : "Chevrolet Sport team",
-  "totalPoints" : 7,
+  "totalPoints" : 13,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 6,
+  "participations" : 7,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -32,7 +32,8 @@
     "SPAIN" : 9,
     "TURKEY" : 12,
     "GERMANY" : 9,
-    "HUNGARY" : 16
+    "HUNGARY" : 16,
+    "EUROPE" : 7
   },
   "eventsPoints" : {
     "MONACO" : 1,
@@ -40,6 +41,7 @@
     "SPAIN" : 2,
     "TURKEY" : 0,
     "GERMANY" : 2,
-    "HUNGARY" : 0
+    "HUNGARY" : 0,
+    "EUROPE" : 6
   }
 }

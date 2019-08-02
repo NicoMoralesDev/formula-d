@@ -5,13 +5,13 @@
   "color" : "#bc2949",
   "igpTeamId" : 1738678,
   "teamName" : "Nissan Primera",
-  "totalPoints" : 10,
+  "totalPoints" : 11,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 11,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,7 +36,8 @@
     "BAHRAIN" : 9,
     "AUSTRALIA" : 11,
     "GERMANY" : 15,
-    "HUNGARY" : 11
+    "HUNGARY" : 11,
+    "EUROPE" : 10
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -48,6 +49,7 @@
     "BAHRAIN" : 2,
     "AUSTRALIA" : 0,
     "GERMANY" : 0,
-    "HUNGARY" : 0
+    "HUNGARY" : 0,
+    "EUROPE" : 1
   }
 }

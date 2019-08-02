@@ -6,13 +6,13 @@
   "color" : "#08f034",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/337354s.png?1542732829",
   "drivers" : [ 5177590, 5182678, 7408800 ],
-  "totalPoints" : 97,
+  "totalPoints" : 109,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 1,
-  "topTens" : 15,
-  "fastestLaps" : 1,
-  "participations" : 20,
+  "topTens" : 16,
+  "fastestLaps" : 2,
+  "participations" : 22,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -37,6 +37,7 @@
     "BAHRAIN" : 20,
     "AUSTRALIA" : 23,
     "GERMANY" : 6,
-    "HUNGARY" : 6
+    "HUNGARY" : 6,
+    "EUROPE" : 12
   }
 }

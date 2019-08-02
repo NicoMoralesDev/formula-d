@@ -5,13 +5,13 @@
   "color" : "#f4840e",
   "igpTeamId" : 18580,
   "teamName" : "Anfera",
-  "totalPoints" : 2,
+  "totalPoints" : 8,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 11,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,7 +36,8 @@
     "BAHRAIN" : 16,
     "AUSTRALIA" : 9,
     "GERMANY" : 30,
-    "HUNGARY" : 28
+    "HUNGARY" : 28,
+    "EUROPE" : 7
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -48,6 +49,7 @@
     "BAHRAIN" : 0,
     "AUSTRALIA" : 2,
     "GERMANY" : 0,
-    "HUNGARY" : 0
+    "HUNGARY" : 0,
+    "EUROPE" : 6
   }
 }

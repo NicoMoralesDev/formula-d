@@ -5,13 +5,13 @@
   "color" : "#19ec06",
   "igpTeamId" : 912027,
   "teamName" : "Alfalfa Lomeo",
-  "totalPoints" : 0,
+  "totalPoints" : 1,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 11,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,7 +36,8 @@
     "BAHRAIN" : 31,
     "AUSTRALIA" : 11,
     "GERMANY" : 17,
-    "HUNGARY" : 24
+    "HUNGARY" : 24,
+    "EUROPE" : 10
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -48,6 +49,7 @@
     "BAHRAIN" : 0,
     "AUSTRALIA" : 0,
     "GERMANY" : 0,
-    "HUNGARY" : 0
+    "HUNGARY" : 0,
+    "EUROPE" : 1
   }
 }

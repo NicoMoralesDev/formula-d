@@ -5,13 +5,13 @@
   "color" : "#cc6666",
   "igpTeamId" : 281017,
   "teamName" : "Casla racing",
-  "totalPoints" : 84,
+  "totalPoints" : 94,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 1,
-  "topTens" : 8,
+  "topTens" : 9,
   "fastestLaps" : 4,
-  "participations" : 10,
+  "participations" : 11,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,7 +36,8 @@
     "BAHRAIN" : 4,
     "AUSTRALIA" : 25,
     "GERMANY" : 4,
-    "HUNGARY" : 4
+    "HUNGARY" : 4,
+    "EUROPE" : 5
   },
   "eventsPoints" : {
     "CHINA" : 18,
@@ -48,6 +49,7 @@
     "BAHRAIN" : 12,
     "AUSTRALIA" : 0,
     "GERMANY" : 12,
-    "HUNGARY" : 12
+    "HUNGARY" : 12,
+    "EUROPE" : 10
   }
 }
