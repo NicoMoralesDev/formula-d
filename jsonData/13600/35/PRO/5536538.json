@@ -5,13 +5,13 @@
   "color" : "#663333",
   "igpTeamId" : 1129537,
   "teamName" : "Bmw racing team",
-  "totalPoints" : 15,
+  "totalPoints" : 23,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 4,
-  "fastestLaps" : 1,
-  "participations" : 11,
+  "topTens" : 5,
+  "fastestLaps" : 2,
+  "participations" : 12,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -37,7 +37,8 @@
     "AUSTRALIA" : 13,
     "GERMANY" : 21,
     "HUNGARY" : 11,
-    "EUROPE" : 11
+    "EUROPE" : 11,
+    "BELGIUM" : 6
   },
   "eventsPoints" : {
     "CHINA" : 6,
@@ -50,6 +51,7 @@
     "AUSTRALIA" : 0,
     "GERMANY" : 0,
     "HUNGARY" : 0,
-    "EUROPE" : 0
+    "EUROPE" : 0,
+    "BELGIUM" : 8
   }
 }

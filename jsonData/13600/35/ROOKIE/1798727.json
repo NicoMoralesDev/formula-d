@@ -5,10 +5,10 @@
   "nationality" : "es",
   "color" : "#4aa62a",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/1798727s.png?1563451905",
-  "drivers" : [ 2904220, 5712271, 6787643 ],
+  "drivers" : [ 2904220, 5712271, 6787643, 6130763 ],
   "totalPoints" : 4,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
@@ -38,6 +38,7 @@
     "AUSTRALIA" : 0,
     "GERMANY" : 0,
     "HUNGARY" : 0,
-    "EUROPE" : 0
+    "EUROPE" : 0,
+    "BELGIUM" : 0
   }
 }
