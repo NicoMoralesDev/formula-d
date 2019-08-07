@@ -5,13 +5,13 @@
   "color" : "#ffeb00",
   "igpTeamId" : 981270,
   "teamName" : "Jordan iGP Team",
-  "totalPoints" : 185,
-  "wins" : 4,
+  "totalPoints" : 210,
+  "wins" : 5,
   "poles" : 1,
-  "podiums" : 8,
-  "topTens" : 10,
+  "podiums" : 9,
+  "topTens" : 11,
   "fastestLaps" : 0,
-  "participations" : 12,
+  "participations" : 13,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -38,7 +38,8 @@
     "GERMANY" : 2,
     "HUNGARY" : 1,
     "EUROPE" : 1,
-    "BELGIUM" : 1
+    "BELGIUM" : 1,
+    "ITALY" : 1
   },
   "eventsPoints" : {
     "CHINA" : 10,
@@ -52,6 +53,7 @@
     "GERMANY" : 18,
     "HUNGARY" : 25,
     "EUROPE" : 25,
-    "BELGIUM" : 25
+    "BELGIUM" : 25,
+    "ITALY" : 25
   }
 }

@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "GERMANY" : 29,
     "HUNGARY" : 29,
     "EUROPE" : 30,
-    "BELGIUM" : 30
+    "BELGIUM" : 30,
+    "ITALY" : 30
   },
   "eventsPoints" : {
     "GREATBRITAIN19" : 0,
     "GERMANY" : 0,
     "HUNGARY" : 0,
     "EUROPE" : 0,
-    "BELGIUM" : 0
+    "BELGIUM" : 0,
+    "ITALY" : 0
   }
 }

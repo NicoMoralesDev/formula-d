@@ -5,13 +5,13 @@
   "color" : "#081fdb",
   "igpTeamId" : 553935,
   "teamName" : "Chevrolet Sport team",
-  "totalPoints" : 10,
+  "totalPoints" : 20,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 5,
+  "topTens" : 6,
   "fastestLaps" : 0,
-  "participations" : 12,
+  "participations" : 13,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -38,7 +38,8 @@
     "GERMANY" : 11,
     "HUNGARY" : 13,
     "EUROPE" : 12,
-    "BELGIUM" : 22
+    "BELGIUM" : 22,
+    "ITALY" : 5
   },
   "eventsPoints" : {
     "CHINA" : 1,
@@ -52,6 +53,7 @@
     "GERMANY" : 0,
     "HUNGARY" : 0,
     "EUROPE" : 0,
-    "BELGIUM" : 0
+    "BELGIUM" : 0,
+    "ITALY" : 10
   }
 }

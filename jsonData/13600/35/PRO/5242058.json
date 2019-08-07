@@ -5,13 +5,13 @@
   "color" : "#336633",
   "igpTeamId" : 709283,
   "teamName" : "Zorrencos GP",
-  "totalPoints" : 27,
+  "totalPoints" : 37,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 5,
   "fastestLaps" : 0,
-  "participations" : 12,
+  "participations" : 13,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -38,7 +38,8 @@
     "GERMANY" : 24,
     "HUNGARY" : 24,
     "EUROPE" : 8,
-    "BELGIUM" : 20
+    "BELGIUM" : 20,
+    "ITALY" : 5
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -52,6 +53,7 @@
     "GERMANY" : 0,
     "HUNGARY" : 0,
     "EUROPE" : 4,
-    "BELGIUM" : 0
+    "BELGIUM" : 0,
+    "ITALY" : 10
   }
 }

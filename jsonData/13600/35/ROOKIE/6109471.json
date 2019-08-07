@@ -5,13 +5,13 @@
   "color" : "#ff0f0f",
   "igpTeamId" : 1401592,
   "teamName" : "Valle del Kas",
-  "totalPoints" : 141,
+  "totalPoints" : 159,
   "wins" : 0,
   "poles" : 0,
-  "podiums" : 3,
-  "topTens" : 12,
-  "fastestLaps" : 4,
-  "participations" : 12,
+  "podiums" : 4,
+  "topTens" : 13,
+  "fastestLaps" : 5,
+  "participations" : 13,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -38,7 +38,8 @@
     "GERMANY" : 3,
     "HUNGARY" : 5,
     "EUROPE" : 5,
-    "BELGIUM" : 2
+    "BELGIUM" : 2,
+    "ITALY" : 2
   },
   "eventsPoints" : {
     "CHINA" : 10,
@@ -52,6 +53,7 @@
     "GERMANY" : 15,
     "HUNGARY" : 10,
     "EUROPE" : 10,
-    "BELGIUM" : 18
+    "BELGIUM" : 18,
+    "ITALY" : 18
   }
 }

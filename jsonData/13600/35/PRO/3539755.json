@@ -7,11 +7,11 @@
   "teamName" : "Scuderia Reyes F1 Team",
   "totalPoints" : 0,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 12,
+  "participations" : 13,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -38,7 +38,8 @@
     "GERMANY" : 25,
     "HUNGARY" : 27,
     "EUROPE" : 21,
-    "BELGIUM" : 30
+    "BELGIUM" : 30,
+    "ITALY" : 12
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -52,6 +53,7 @@
     "GERMANY" : 0,
     "HUNGARY" : 0,
     "EUROPE" : 0,
-    "BELGIUM" : 0
+    "BELGIUM" : 0,
+    "ITALY" : 0
   }
 }

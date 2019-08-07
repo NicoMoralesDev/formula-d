@@ -5,13 +5,13 @@
   "color" : "#f8c600",
   "igpTeamId" : 1645067,
   "teamName" : "Termopilas Team",
-  "totalPoints" : 2,
+  "totalPoints" : 4,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 12,
+  "participations" : 13,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -38,7 +38,8 @@
     "GERMANY" : 28,
     "HUNGARY" : 21,
     "EUROPE" : 24,
-    "BELGIUM" : 9
+    "BELGIUM" : 9,
+    "ITALY" : 9
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -52,6 +53,7 @@
     "GERMANY" : 0,
     "HUNGARY" : 0,
     "EUROPE" : 0,
-    "BELGIUM" : 2
+    "BELGIUM" : 2,
+    "ITALY" : 2
   }
 }
