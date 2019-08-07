@@ -5,13 +5,13 @@
   "color" : "#084eb7",
   "igpTeamId" : 1123049,
   "teamName" : "AMP Fiat",
-  "totalPoints" : 4,
+  "totalPoints" : 6,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 13,
+  "participations" : 14,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -39,7 +39,8 @@
     "HUNGARY" : 32,
     "EUROPE" : 34,
     "BELGIUM" : 31,
-    "ITALY" : 13
+    "ITALY" : 13,
+    "SINGAPORE" : 9
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -54,6 +55,7 @@
     "HUNGARY" : 0,
     "EUROPE" : 0,
     "BELGIUM" : 0,
-    "ITALY" : 0
+    "ITALY" : 0,
+    "SINGAPORE" : 2
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#8dff08",
   "igpTeamId" : 1206050,
   "teamName" : "Monster Energy",
-  "totalPoints" : 17,
+  "totalPoints" : 25,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 13,
+  "participations" : 14,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -39,7 +39,8 @@
     "HUNGARY" : 12,
     "EUROPE" : 6,
     "BELGIUM" : 15,
-    "ITALY" : 10
+    "ITALY" : 10,
+    "SINGAPORE" : 6
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -54,6 +55,7 @@
     "HUNGARY" : 0,
     "EUROPE" : 8,
     "BELGIUM" : 0,
-    "ITALY" : 1
+    "ITALY" : 1,
+    "SINGAPORE" : 8
   }
 }

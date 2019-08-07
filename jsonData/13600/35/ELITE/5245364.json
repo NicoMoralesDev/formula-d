@@ -5,13 +5,13 @@
   "color" : "#ff7500",
   "igpTeamId" : 787769,
   "teamName" : "Polaris",
-  "totalPoints" : 73,
+  "totalPoints" : 77,
   "wins" : 1,
   "poles" : 0,
   "podiums" : 3,
-  "topTens" : 6,
+  "topTens" : 7,
   "fastestLaps" : 0,
-  "participations" : 13,
+  "participations" : 14,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -39,7 +39,8 @@
     "HUNGARY" : 8,
     "EUROPE" : 1,
     "BELGIUM" : 2,
-    "ITALY" : 3
+    "ITALY" : 3,
+    "SINGAPORE" : 8
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -54,6 +55,7 @@
     "HUNGARY" : 4,
     "EUROPE" : 25,
     "BELGIUM" : 18,
-    "ITALY" : 15
+    "ITALY" : 15,
+    "SINGAPORE" : 4
   }
 }

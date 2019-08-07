@@ -8,11 +8,11 @@
   "drivers" : [ 5177590, 5182678, 7408800 ],
   "totalPoints" : 109,
   "wins" : 0,
-  "poles" : 1,
+  "poles" : 0,
   "podiums" : 1,
-  "topTens" : 16,
-  "fastestLaps" : 2,
-  "participations" : 26,
+  "topTens" : 7,
+  "fastestLaps" : 1,
+  "participations" : 15,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -40,6 +40,7 @@
     "HUNGARY" : 6,
     "EUROPE" : 12,
     "BELGIUM" : 0,
-    "ITALY" : 0
+    "ITALY" : 0,
+    "SINGAPORE" : 0
   }
 }

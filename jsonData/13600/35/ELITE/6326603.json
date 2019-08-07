@@ -11,7 +11,7 @@
   "podiums" : 1,
   "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 13,
+  "participations" : 14,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -39,7 +39,8 @@
     "HUNGARY" : 31,
     "EUROPE" : 21,
     "BELGIUM" : 30,
-    "ITALY" : 22
+    "ITALY" : 22,
+    "SINGAPORE" : 29
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -54,6 +55,7 @@
     "HUNGARY" : 0,
     "EUROPE" : 0,
     "BELGIUM" : 0,
-    "ITALY" : 0
+    "ITALY" : 0,
+    "SINGAPORE" : 0
   }
 }

@@ -7,11 +7,11 @@
   "teamName" : "Teku Team",
   "totalPoints" : 15,
   "wins" : 0,
-  "poles" : 1,
+  "poles" : 2,
   "podiums" : 1,
   "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "HUNGARY" : 29,
     "EUROPE" : 27,
     "BELGIUM" : 13,
-    "ITALY" : 28
+    "ITALY" : 28,
+    "SINGAPORE" : 11
   },
   "eventsPoints" : {
     "GERMANY" : 15,
     "HUNGARY" : 0,
     "EUROPE" : 0,
     "BELGIUM" : 0,
-    "ITALY" : 0
+    "ITALY" : 0,
+    "SINGAPORE" : 0
   }
 }

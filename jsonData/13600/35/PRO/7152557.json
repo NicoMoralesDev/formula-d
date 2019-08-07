@@ -5,13 +5,13 @@
   "color" : "#aa9b22",
   "igpTeamId" : 253264,
   "teamName" : "Lusty Sport Team",
-  "totalPoints" : 47,
+  "totalPoints" : 57,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 8,
+  "topTens" : 9,
   "fastestLaps" : 0,
-  "participations" : 13,
+  "participations" : 14,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -39,7 +39,8 @@
     "HUNGARY" : 7,
     "EUROPE" : 10,
     "BELGIUM" : 7,
-    "ITALY" : 27
+    "ITALY" : 27,
+    "SINGAPORE" : 5
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -54,6 +55,7 @@
     "HUNGARY" : 6,
     "EUROPE" : 1,
     "BELGIUM" : 6,
-    "ITALY" : 0
+    "ITALY" : 0,
+    "SINGAPORE" : 10
   }
 }
