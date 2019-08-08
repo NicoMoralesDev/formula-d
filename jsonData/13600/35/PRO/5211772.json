@@ -5,13 +5,13 @@
   "color" : "#f8ac0a",
   "igpTeamId" : 770045,
   "teamName" : "MclataTEAM F1",
-  "totalPoints" : 16,
+  "totalPoints" : 31,
   "wins" : 0,
   "poles" : 1,
-  "podiums" : 0,
-  "topTens" : 2,
+  "podiums" : 1,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 14,
+  "participations" : 15,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -40,7 +40,8 @@
     "EUROPE" : 23,
     "BELGIUM" : 18,
     "ITALY" : 22,
-    "SINGAPORE" : 17
+    "SINGAPORE" : 17,
+    "JAPAN" : 3
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -56,6 +57,7 @@
     "EUROPE" : 0,
     "BELGIUM" : 0,
     "ITALY" : 0,
-    "SINGAPORE" : 0
+    "SINGAPORE" : 0,
+    "JAPAN" : 15
   }
 }

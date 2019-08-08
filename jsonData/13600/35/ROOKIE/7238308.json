@@ -5,13 +5,13 @@
   "color" : "#b4497d",
   "igpTeamId" : 1554830,
   "teamName" : "Racing Star Point F1 Team",
-  "totalPoints" : 27,
+  "totalPoints" : 29,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 7,
+  "topTens" : 8,
   "fastestLaps" : 0,
-  "participations" : 13,
+  "participations" : 14,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -39,7 +39,8 @@
     "EUROPE" : 6,
     "BELGIUM" : 9,
     "ITALY" : 20,
-    "SINGAPORE" : 14
+    "SINGAPORE" : 14,
+    "JAPAN" : 9
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -54,6 +55,7 @@
     "EUROPE" : 8,
     "BELGIUM" : 2,
     "ITALY" : 0,
-    "SINGAPORE" : 0
+    "SINGAPORE" : 0,
+    "JAPAN" : 2
   }
 }

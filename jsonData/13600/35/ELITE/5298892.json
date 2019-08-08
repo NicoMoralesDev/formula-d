@@ -5,13 +5,13 @@
   "color" : "#964e4e",
   "igpTeamId" : 244083,
   "teamName" : "OWLS V8",
-  "totalPoints" : 78,
+  "totalPoints" : 90,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 1,
-  "topTens" : 10,
+  "topTens" : 11,
   "fastestLaps" : 0,
-  "participations" : 14,
+  "participations" : 15,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -40,7 +40,8 @@
     "EUROPE" : 24,
     "BELGIUM" : 8,
     "ITALY" : 8,
-    "SINGAPORE" : 4
+    "SINGAPORE" : 4,
+    "JAPAN" : 4
   },
   "eventsPoints" : {
     "CHINA" : 2,
@@ -56,6 +57,7 @@
     "EUROPE" : 0,
     "BELGIUM" : 4,
     "ITALY" : 4,
-    "SINGAPORE" : 12
+    "SINGAPORE" : 12,
+    "JAPAN" : 12
   }
 }

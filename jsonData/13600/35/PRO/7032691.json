@@ -5,13 +5,13 @@
   "color" : "#909090",
   "igpTeamId" : 1124196,
   "teamName" : "Teku Team",
-  "totalPoints" : 78,
+  "totalPoints" : 96,
   "wins" : 1,
-  "poles" : 1,
-  "podiums" : 4,
-  "topTens" : 6,
+  "poles" : 2,
+  "podiums" : 5,
+  "topTens" : 7,
   "fastestLaps" : 0,
-  "participations" : 14,
+  "participations" : 15,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -40,7 +40,8 @@
     "EUROPE" : 28,
     "BELGIUM" : 3,
     "ITALY" : 23,
-    "SINGAPORE" : 13
+    "SINGAPORE" : 13,
+    "JAPAN" : 2
   },
   "eventsPoints" : {
     "CHINA" : 0,
@@ -56,6 +57,7 @@
     "EUROPE" : 0,
     "BELGIUM" : 15,
     "ITALY" : 0,
-    "SINGAPORE" : 0
+    "SINGAPORE" : 0,
+    "JAPAN" : 18
   }
 }
