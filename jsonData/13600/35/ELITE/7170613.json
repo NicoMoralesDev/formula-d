@@ -5,13 +5,13 @@
   "color" : "#ababab",
   "igpTeamId" : 883901,
   "teamName" : "Scudería Pagani",
-  "totalPoints" : 62,
+  "totalPoints" : 70,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 8,
+  "topTens" : 9,
   "fastestLaps" : 0,
-  "participations" : 15,
+  "participations" : 16,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -41,7 +41,8 @@
     "BELGIUM" : 9,
     "ITALY" : 12,
     "SINGAPORE" : 12,
-    "JAPAN" : 8
+    "JAPAN" : 8,
+    "BRAZIL" : 6
   },
   "eventsPoints" : {
     "CHINA" : 12,
@@ -58,6 +59,7 @@
     "BELGIUM" : 2,
     "ITALY" : 0,
     "SINGAPORE" : 0,
-    "JAPAN" : 4
+    "JAPAN" : 4,
+    "BRAZIL" : 8
   }
 }

@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 7606324,
+  "driverName" : "M De",
+  "nationality" : "it",
+  "color" : "#001aff",
+  "igpTeamId" : 1863985,
+  "teamName" : "OSTADAR",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 3,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "BRAZIL" : 21
+  },
+  "eventsPoints" : {
+    "BRAZIL" : 0
+  }
+}

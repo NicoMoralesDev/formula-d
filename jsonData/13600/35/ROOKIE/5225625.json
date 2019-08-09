@@ -5,13 +5,13 @@
   "color" : "#081fdb",
   "igpTeamId" : 553935,
   "teamName" : "Chevrolet Sport team",
-  "totalPoints" : 19,
+  "totalPoints" : 25,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 6,
+  "topTens" : 7,
   "fastestLaps" : 0,
-  "participations" : 11,
+  "participations" : 12,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -37,7 +37,8 @@
     "BELGIUM" : 21,
     "ITALY" : 7,
     "SINGAPORE" : 21,
-    "JAPAN" : 18
+    "JAPAN" : 18,
+    "BRAZIL" : 7
   },
   "eventsPoints" : {
     "MONACO" : 1,
@@ -50,6 +51,7 @@
     "BELGIUM" : 0,
     "ITALY" : 6,
     "SINGAPORE" : 0,
-    "JAPAN" : 0
+    "JAPAN" : 0,
+    "BRAZIL" : 6
   }
 }

@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 7627384,
+  "driverName" : "A Rodriguez",
+  "nationality" : "es",
+  "color" : "#333366",
+  "igpTeamId" : 1864012,
+  "teamName" : "87149148626022",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 1,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "BRAZIL" : 18
+  },
+  "eventsPoints" : {
+    "BRAZIL" : 0
+  }
+}

@@ -5,13 +5,13 @@
   "color" : "#ffe6e6",
   "igpTeamId" : 1673573,
   "teamName" : "Quimica",
-  "totalPoints" : 64,
+  "totalPoints" : 76,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 9,
+  "topTens" : 10,
   "fastestLaps" : 0,
-  "participations" : 15,
+  "participations" : 16,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -41,7 +41,8 @@
     "BELGIUM" : 8,
     "ITALY" : 14,
     "SINGAPORE" : 6,
-    "JAPAN" : 6
+    "JAPAN" : 6,
+    "BRAZIL" : 4
   },
   "eventsPoints" : {
     "CHINA" : 8,
@@ -58,6 +59,7 @@
     "BELGIUM" : 4,
     "ITALY" : 0,
     "SINGAPORE" : 8,
-    "JAPAN" : 8
+    "JAPAN" : 8,
+    "BRAZIL" : 12
   }
 }
