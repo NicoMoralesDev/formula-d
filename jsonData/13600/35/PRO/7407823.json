@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 0,
+  "participations" : 1,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -26,6 +26,10 @@
     "participations" : 0,
     "finishedRaces" : 0
   },
-  "eventsPositions" : { },
-  "eventsPoints" : { }
+  "eventsPositions" : {
+    "ABUDHABI" : 29
+  },
+  "eventsPoints" : {
+    "ABUDHABI" : 0
+  }
 }

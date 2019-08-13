@@ -6,13 +6,13 @@
   "color" : "#fc0303",
   "carImage" : "https://igpmanager.azureedge.net/igp/livery/676200s.png?1563296711",
   "drivers" : [ 5088992, 5138614 ],
-  "totalPoints" : 47,
+  "totalPoints" : 52,
   "wins" : 0,
-  "poles" : 1,
+  "poles" : 2,
   "podiums" : 0,
-  "topTens" : 10,
+  "topTens" : 12,
   "fastestLaps" : 0,
-  "participations" : 32,
+  "participations" : 34,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -43,6 +43,7 @@
     "ITALY" : 0,
     "SINGAPORE" : 0,
     "JAPAN" : 0,
-    "BRAZIL" : 14
+    "BRAZIL" : 14,
+    "ABUDHABI" : 5
   }
 }

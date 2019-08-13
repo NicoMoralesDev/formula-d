@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <!-- Bootstrap CSS -->
+    <!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">-->
+    <!-- Bootstrap JS -->
+    <!--    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>-->  
+    <!-- Popper -->
+    <!--    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>-->
+    
+    <!-- Ionic Icons -->
+    <link href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- Flag Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.min.css" rel="stylesheet" type="text/css">
+    
+    <!-- W3.CSS -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+    <!-- Charts.JS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+    <!-- jquery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>-->
+    
+    <!-- My CSS Stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+    
+<body>
+    <nav class="w3-top" style="display: none">
+        <header class="w3-bar">
+            <button class="open-menu-button w3-bar-item w3-xlarge">&#9776;</button>
+            <span class="w3-bar-item w3-xlarge">iGP League Stats <i class="ion-stats-bars"></i></span>
+            <button class="w3-bar-item w3-right w3-xlarge" style="display: none;">
+                <i class="ion-earth"></i>
+            </button>
+            <button class="w3-bar-item w3-right w3-xlarge" style="display: none;">
+                <i class="ion-paintbucket"></i>
+            </button>
+        </header>
+                
+        <div class="w3-sidebar w3-bar-block w3-animate-left w3-mobile menu" id="myMenu" style="display: none;">
+            
+            <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-home"></i> Home
+            </a>
+            
+            <button class="accordion-menu-button w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-trophy"></i> Ligas <i class="ion-chevron-down" style="font-size: 15px;"></i>
+            </button>      
+            <div class="tab w3-left-align" id="submenu-2" style="display: none;">
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Formula Premium
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Formula D
+                </a>
+            </div>
+            
+            <button class="accordion-menu-button w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-podium"></i> Temporadas <i class="ion-chevron-down" style="font-size: 15px;"></i>
+            </button> 
+            <div class="tab w3-left-align" id="submenu-3" style="display: none;">
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 1
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 2
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 3
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 4
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Temporada 5
+                </a>
+            </div>
+            
+            <button class="accordion-menu-button w3-bar-item w3-button w3-left-align w3-mobile">
+                <i class="ion-star"></i></i> Categorías <i class="ion-chevron-down" style="font-size: 15px;"></i>
+            </button>
+            <div class="tab w3-left-align ils-blue-gray" id="submenu-4" style="display: none;">
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Novato
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Profesional
+                </a>
+                <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile">
+                    <i class="ion-chevron-right"></i> Elite
+                </a>
+            </div>
+        
+            <a href="#" class="w3-bar-item w3-button w3-left-align w3-mobile" style="display: none;">
+                <i class="ion-arrow-swap"></i> Español/English
+            </a>
+            
+        </div> 
+    </nav>
+           
+    <div class="w3-content" style="max-width: 100%;">
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="driverWins">
+                    T35: Victorias de Pilotos
+                </div>
+                <div class="chart-box" id="driverWinsBox">
+                    <canvas id="driverWinsChart" style="height: 250px; width: 100%; "></canvas>
+                </div>
+            </div>
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="driverPoles">
+                    T35: Poles de Pilotos
+                </div>
+                <div class="chart-box" id="driverPolesBox">
+                    <canvas id="driverPolesChart" style="height: 250px; width: 100%;"></canvas>
+                </div>
+            </div>
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="teamWins">
+                    T35: Victorias de Equipos
+                </div>
+                <div class="chart-box" id="teamWinsBox">
+                    <canvas id="teamWinsChart" style="height: 250px; width: 100%;"></canvas>
+                </div>
+            </div>
+            <div class="w3-cell w3-quarter w3-mobile box">
+                <div class="title" id="teamPoles">
+                    T35: Poles de Equipos
+                </div>
+                <div class="chart-box" id="teamPolesBox">
+                    <canvas id="teamPolesChart" style="height: 250px; width: 100%;"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-mobile box">
+                <div class="title" id="teamPointEvolution">
+                    T35: Evolución de puntos de equipos
+                </div>
+                <div class="chart-box" id="teamPointEvolutionBox">
+                    <canvas id="pointEvolutionChart" style="height: 350px; width: 100%;"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title" id="driverStandings">
+                    T35: Posiciones de Pilotos
+                </div>
+                <div class="inner-box" id="driverStandingsBox">
+                    <div class="w3-row header">
+                        <div class="w3-col margin-left-5" style="width: 40%;">
+                            <span>PILOTO</span>
+                        </div>
+                        <div class="w3-col w3-container" style="width: 41%;">PUNTOS</div>
+                        <div class="w3-rest"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title"  id="driverSeasonTotals">
+                    T35: Estadísticas de Pilotos
+                </div>
+                <table id="driverSeasonTotalsBox">
+                    <thead>
+                        <tr>
+                            <th class="first-column">PILOTO</th>
+                            <th><abbr title="Victorias">V</abbr></th>
+                            <th><abbr title="Podios - Top 3">T3</abbr></th>
+                            <th><abbr title="Top 10">T10</abbr></th>
+                            <th><abbr title="Poles">P1</abbr></th>
+                            <th><abbr title="Vueltas Rápidas">VR</abbr></th>
+                            <th><abbr title="Participaciones">P</abbr></th>
+                            <!--<th>F</th>
+                            <th>DNF</th>
+                            <th>DNS</th>-->
+                        </tr> 
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title" id="teamStandings">
+                    T35: Posiciones de Equipos
+                </div>
+                <div class="inner-box" id="teamStandingsBox">
+                    <div class="w3-row header">
+                        <div class="w3-col margin-left-5" style="width: 40%;">
+                            <span>EQUIPO</span>
+                        </div>
+                        <div class="w3-col w3-container" style="width: 40%;">PUNTOS</div>
+                        <div class="w3-rest"></div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="w3-cell w3-half w3-mobile box">
+                <div class="title" id="teamSeasonTotals">
+                    T35: Estadísticas de Equipos
+                </div>
+                <table id="teamSeasonTotalsBox">
+                    <thead>
+                        <tr>
+                            <th class="first-column">EQUIPO</th>
+                            <th><abbr title="Victorias">V</abbr></th>
+                            <th><abbr title="Podios - Top 3">T3</abbr></th>
+                            <th><abbr title="Top 10">T10</abbr></th>
+                            <th><abbr title="Poles">P1</abbr></th>
+                            <th><abbr title="Vueltas Rápidas">VR</abbr></th>
+                            <th><abbr title="Participaciones">P</abbr></th>
+                            <!--<th>F</th>
+                            <th>DNF</th>
+                            <th>DNS</th>-->
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="main-box">
+            <div class="w3-mobile box">
+                <div class="title" id="heatMap">
+                    T35: Mapa de Calor
+                </div>
+                <table class="heatmap" id="heatMapBox">
+                    <thead>
+                        <tr>
+                            <th class="first-column">PILOTO</th>
+                            <th>AUS <span class="flag-icon flag-icon-au"></span></th>
+                            <th>MAL <span class="flag-icon flag-icon-my"></span></th>
+                            <th>CHI <span class="flag-icon flag-icon-cn"></span></th>
+                            <th>BAH <span class="flag-icon flag-icon-bh"></span></th>
+                            <th>ESP <span class="flag-icon flag-icon-es"></span></th>
+                            <th>MON <span class="flag-icon flag-icon-mc"></span></th>
+                            <th>TUR <span class="flag-icon flag-icon-tr"></span></th>
+                            <th>GBR <span class="flag-icon flag-icon-gb"></span></th>
+                            <th>ALE <span class="flag-icon flag-icon-de"></span></th>
+                            <th>HUN <span class="flag-icon flag-icon-hu"></span></th>
+                            <th>EUR <span class="flag-icon flag-icon-eu"></span></th>
+                            <th>BEL <span class="flag-icon flag-icon-be"></span></th>
+                            <th>ITA <span class="flag-icon flag-icon-it"></span></th>
+                            <th>SIN <span class="flag-icon flag-icon-sg"></span></th>
+                            <th>JAP <span class="flag-icon flag-icon-jp"></span></th>
+                            <th>BRA <span class="flag-icon flag-icon-br"></span></th>
+                            <th>EAU <span class="flag-icon flag-icon-ae"></span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="main-box">
+            <div class="w3-mobile box">
+                <div class="title" id="calendar">
+                    T35: Calendario
+                </div>
+                <table id="calendarBox">
+                    <thead>
+                        <tr>
+                            <th style="width: 30px; padding-left: 5px; padding-right: 5px;">#</th>
+                            <th>Carrera</th>
+                            <th>Fecha</th>
+                            <th>Vueltas</th>
+                            <th>Duración</th>
+                            <th>Ganador</th>
+                            <th>Vuelta Rápida</th>
+                            <th>Tiempo de VR</th>
+                            <th>Pole</th>
+                            <th>Tiempo de Pole</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <div class="main-box w3-cell-row">
+            <div class="w3-cell w3-mobile box">
+                <div class="title" id="pointSystem">
+                    T35: Sistema de Puntos
+                </div>
+                <table id="pointSystemBox">
+                    <thead>
+                        <tr>
+                            <th style="width: 50%">Posición</th>
+                            <th style="width: 50%">Puntos</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+<script src="js/igp-league-stats35.js"></script>  
+</body>
+</html>

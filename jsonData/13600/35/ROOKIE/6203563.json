@@ -5,13 +5,13 @@
   "color" : "#ff00fc",
   "igpTeamId" : 1368566,
   "teamName" : "Yisus Team",
-  "totalPoints" : 6,
+  "totalPoints" : 16,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 11,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -36,7 +36,8 @@
     "ITALY" : 16,
     "SINGAPORE" : 10,
     "JAPAN" : 10,
-    "BRAZIL" : 13
+    "BRAZIL" : 13,
+    "ABUDHABI" : 5
   },
   "eventsPoints" : {
     "GREATBRITAIN19" : 0,
@@ -48,6 +49,7 @@
     "ITALY" : 0,
     "SINGAPORE" : 1,
     "JAPAN" : 1,
-    "BRAZIL" : 0
+    "BRAZIL" : 0,
+    "ABUDHABI" : 10
   }
 }

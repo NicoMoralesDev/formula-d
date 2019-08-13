@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 1,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "BRAZIL" : 28
+    "BRAZIL" : 28,
+    "ABUDHABI" : 31
   },
   "eventsPoints" : {
-    "BRAZIL" : 0
+    "BRAZIL" : 0,
+    "ABUDHABI" : 0
   }
 }

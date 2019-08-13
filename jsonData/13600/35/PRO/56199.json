@@ -12,7 +12,7 @@
   "podiums" : 9,
   "topTens" : 25,
   "fastestLaps" : 0,
-  "participations" : 32,
+  "participations" : 34,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -43,6 +43,7 @@
     "ITALY" : 30,
     "SINGAPORE" : 19,
     "JAPAN" : 33,
-    "BRAZIL" : 40
+    "BRAZIL" : 40,
+    "ABUDHABI" : 0
   }
 }

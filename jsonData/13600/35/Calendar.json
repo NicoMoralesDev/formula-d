@@ -1,5 +1,5 @@
 {
-  "id" : 5402,
+  "id" : 4294,
   "racesOrder" : {
     "1" : "AUSTRALIA",
     "2" : "MALAYSIA",
@@ -36,7 +36,7 @@
     "SINGAPORE" : "Finished",
     "JAPAN" : "Finished",
     "BRAZIL" : "Finished",
-    "ABUDHABI" : "12 Aug, 13:00"
+    "ABUDHABI" : "Finished"
   },
   "totalEvents" : 17
 }

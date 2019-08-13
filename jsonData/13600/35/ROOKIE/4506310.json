@@ -11,7 +11,7 @@
   "podiums" : 1,
   "topTens" : 8,
   "fastestLaps" : 1,
-  "participations" : 13,
+  "participations" : 14,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -39,7 +39,8 @@
     "ITALY" : 8,
     "SINGAPORE" : 17,
     "JAPAN" : 14,
-    "BRAZIL" : 17
+    "BRAZIL" : 17,
+    "ABUDHABI" : 16
   },
   "eventsPoints" : {
     "MONACO" : 8,
@@ -54,6 +55,7 @@
     "ITALY" : 4,
     "SINGAPORE" : 0,
     "JAPAN" : 0,
-    "BRAZIL" : 0
+    "BRAZIL" : 0,
+    "ABUDHABI" : 0
   }
 }

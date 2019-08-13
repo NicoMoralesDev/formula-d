@@ -8,11 +8,11 @@
   "drivers" : [ 5953358, 5210362, 7407823 ],
   "totalPoints" : 19,
   "wins" : 0,
-  "poles" : 1,
+  "poles" : 0,
   "podiums" : 0,
-  "topTens" : 4,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 32,
+  "participations" : 18,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -43,6 +43,7 @@
     "ITALY" : 0,
     "SINGAPORE" : 0,
     "JAPAN" : 0,
-    "BRAZIL" : 0
+    "BRAZIL" : 0,
+    "ABUDHABI" : 0
   }
 }

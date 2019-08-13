@@ -1389,7 +1389,7 @@ var appController = (function(dataController, UIController, chartController) {
         init: function(lang) {
             console.log('Application has started.');
             setupEventListeners();
-            dataController.load(13600, 35, 'ELITE', lang);
+            dataController.load(13600, 36, 'ELITE', lang);
             renderPage();
             chartController.load();
             renderCharts();

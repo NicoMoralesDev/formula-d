@@ -5,13 +5,13 @@
   "color" : "#fc0303",
   "igpTeamId" : 676200,
   "teamName" : "FERRARI",
-  "totalPoints" : 30,
+  "totalPoints" : 34,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
-  "topTens" : 6,
+  "topTens" : 7,
   "fastestLaps" : 0,
-  "participations" : 16,
+  "participations" : 17,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -42,7 +42,8 @@
     "ITALY" : 20,
     "SINGAPORE" : 20,
     "JAPAN" : 22,
-    "BRAZIL" : 5
+    "BRAZIL" : 5,
+    "ABUDHABI" : 8
   },
   "eventsPoints" : {
     "CHINA" : 1,
@@ -60,6 +61,7 @@
     "ITALY" : 0,
     "SINGAPORE" : 0,
     "JAPAN" : 0,
-    "BRAZIL" : 10
+    "BRAZIL" : 10,
+    "ABUDHABI" : 4
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#4aa62a",
   "igpTeamId" : 1798727,
   "teamName" : "Pain GP",
-  "totalPoints" : 0,
+  "totalPoints" : 2,
   "wins" : 0,
   "poles" : 2,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "ITALY" : 19,
     "SINGAPORE" : 12,
     "JAPAN" : 19,
-    "BRAZIL" : 11
+    "BRAZIL" : 11,
+    "ABUDHABI" : 9
   },
   "eventsPoints" : {
     "BELGIUM" : 0,
     "ITALY" : 0,
     "SINGAPORE" : 0,
     "JAPAN" : 0,
-    "BRAZIL" : 0
+    "BRAZIL" : 0,
+    "ABUDHABI" : 2
   }
 }
