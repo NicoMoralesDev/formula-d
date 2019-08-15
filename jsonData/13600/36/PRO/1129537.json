@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1129537,
+  "igpManagerId" : 1129530,
+  "teamName" : "Bmw racing team",
+  "nationality" : "be",
+  "color" : "#663333",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1129537s.png?1550160463",
+  "drivers" : [ 5536538, 5085475 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 29,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

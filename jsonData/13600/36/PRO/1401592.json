@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1401592,
+  "igpManagerId" : 1401585,
+  "teamName" : "Valle del Kas",
+  "nationality" : "cu",
+  "color" : "#ff0f0f",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1401592s.png?1563396380",
+  "drivers" : [ 7462157, 6624053 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 30,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

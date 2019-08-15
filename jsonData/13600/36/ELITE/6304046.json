@@ -1,0 +1,35 @@
+{
+  "igpDriverId" : 6304046,
+  "driverName" : "Alfredo Cavallero",
+  "nationality" : "es",
+  "color" : "#084eb7",
+  "igpTeamId" : 1123049,
+  "teamName" : "AMP Fiat",
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 1,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 98,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPositions" : {
+    "AUSTRALIA" : 12
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

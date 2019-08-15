@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 1870594,
+  "igpManagerId" : 1870587,
+  "teamName" : "Lion King",
+  "nationality" : "es",
+  "color" : "#b30808",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/1870594s.png?1565649758",
+  "drivers" : [ 7654074, 7654073 ],
+  "totalPoints" : 0,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 0,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 11,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 0
+  }
+}

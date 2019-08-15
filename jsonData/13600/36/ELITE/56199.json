@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 56199,
+  "igpManagerId" : 56191,
+  "teamName" : "Peugeot Sport",
+  "nationality" : "es",
+  "color" : "#270af4",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/56199s.png?1565628260",
+  "drivers" : [ 6598533, 7097245 ],
+  "totalPoints" : 1,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 38,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "igpTeamId" : 883901,
+  "igpManagerId" : 883894,
+  "teamName" : "Scudería Pagani",
+  "nationality" : "ar",
+  "color" : "#ababab",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/883901s.png?1565661171",
+  "drivers" : [ 5782529, 7567221, 7170613 ],
+  "totalPoints" : 6,
+  "wins" : 0,
+  "poles" : 0,
+  "podiums" : 0,
+  "topTens" : 1,
+  "fastestLaps" : 0,
+  "participations" : 2,
+  "finishedRaces" : 0,
+  "dnfs" : 0,
+  "stats" : {
+    "id" : 36,
+    "championships" : 0,
+    "points" : 0,
+    "wins" : 0,
+    "poles" : 0,
+    "podiums" : 0,
+    "topTens" : 0,
+    "fastestLaps" : 0,
+    "participations" : 0,
+    "finishedRaces" : 0
+  },
+  "eventsPoints" : {
+    "AUSTRALIA" : 6
+  }
+}
