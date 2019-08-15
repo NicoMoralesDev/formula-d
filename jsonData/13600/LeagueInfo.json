@@ -5,7 +5,7 @@
   "raceSpeed" : "2.0",
   "raceDays" : "MTWTFSS",
   "raceTime" : "13:00",
-  "totalSeasons" : 35,
+  "totalSeasons" : 36,
   "seasons" : [ 35, 36 ],
   "teamsChampionships" : {
     "240338" : 2,
