@@ -1,5 +1,5 @@
 {
-  "id" : 4408,
+  "id" : 4313,
   "racesOrder" : {
     "1" : "AUSTRALIA",
     "2" : "MALAYSIA",
@@ -22,7 +22,7 @@
   "races" : {
     "AUSTRALIA" : "Finished",
     "MALAYSIA" : "Finished",
-    "CHINA" : "19 Aug, 13:00",
+    "CHINA" : "Finished",
     "BAHRAIN" : "20 Aug, 13:00",
     "SPAIN" : "21 Aug, 13:00",
     "MONACO" : "22 Aug, 13:00",

@@ -1,21 +1,21 @@
 {
-  "igpDriverId" : 6167867,
-  "driverName" : "Lucho Martínez",
-  "nationality" : "ar",
-  "color" : "#3e0068",
-  "igpTeamId" : 252597,
-  "teamName" : "JET Sport",
-  "totalPoints" : 4,
+  "igpDriverId" : 7085766,
+  "driverName" : "M Oliveira",
+  "nationality" : "br",
+  "color" : "#0c5f86",
+  "igpTeamId" : 1828757,
+  "teamName" : "Málaga",
+  "totalPoints" : 0,
   "wins" : 0,
-  "poles" : 1,
+  "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 1,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 76,
+    "id" : 4,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -27,13 +27,9 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "AUSTRALIA" : 8,
-    "MALAYSIA" : 24,
-    "CHINA" : 23
+    "CHINA" : 11
   },
   "eventsPoints" : {
-    "AUSTRALIA" : 4,
-    "MALAYSIA" : 0,
     "CHINA" : 0
   }
 }

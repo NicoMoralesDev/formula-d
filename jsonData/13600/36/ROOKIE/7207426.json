@@ -5,13 +5,13 @@
   "color" : "#b4497d",
   "igpTeamId" : 1554830,
   "teamName" : "Racing Star Point F1 Team",
-  "totalPoints" : 16,
+  "totalPoints" : 31,
   "wins" : 0,
   "poles" : 1,
-  "podiums" : 0,
-  "topTens" : 2,
+  "podiums" : 1,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 2,
+  "participations" : 3,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -28,10 +28,12 @@
   },
   "eventsPositions" : {
     "AUSTRALIA" : 4,
-    "MALAYSIA" : 8
+    "MALAYSIA" : 8,
+    "CHINA" : 3
   },
   "eventsPoints" : {
     "AUSTRALIA" : 12,
-    "MALAYSIA" : 4
+    "MALAYSIA" : 4,
+    "CHINA" : 15
   }
 }
