@@ -5,13 +5,13 @@
   "color" : "#0c5f86",
   "igpTeamId" : 1828757,
   "teamName" : "Málaga",
-  "totalPoints" : 0,
+  "totalPoints" : 10,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 1,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +27,11 @@
     "finishedRaces" : 0
   },
   "eventsPositions" : {
-    "CHINA" : 11
+    "CHINA" : 11,
+    "BAHRAIN" : 5
   },
   "eventsPoints" : {
-    "CHINA" : 0
+    "CHINA" : 0,
+    "BAHRAIN" : 10
   }
 }

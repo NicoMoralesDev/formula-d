@@ -5,13 +5,13 @@
   "color" : "#a61ae7",
   "igpTeamId" : 717877,
   "teamName" : "Scuderia Reyes F1 Team",
-  "totalPoints" : 18,
+  "totalPoints" : 30,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 2,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "AUSTRALIA" : 11,
     "MALAYSIA" : 6,
-    "CHINA" : 5
+    "CHINA" : 5,
+    "BAHRAIN" : 4
   },
   "eventsPoints" : {
     "AUSTRALIA" : 0,
     "MALAYSIA" : 8,
-    "CHINA" : 10
+    "CHINA" : 10,
+    "BAHRAIN" : 12
   }
 }

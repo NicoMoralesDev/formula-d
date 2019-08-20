@@ -11,7 +11,7 @@
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "AUSTRALIA" : 23,
     "MALAYSIA" : 32,
-    "CHINA" : 23
+    "CHINA" : 23,
+    "BAHRAIN" : 19
   },
   "eventsPoints" : {
     "AUSTRALIA" : 0,
     "MALAYSIA" : 0,
-    "CHINA" : 0
+    "CHINA" : 0,
+    "BAHRAIN" : 0
   }
 }

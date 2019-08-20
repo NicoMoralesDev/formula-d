@@ -5,13 +5,13 @@
   "color" : "#ffffff",
   "igpTeamId" : 1206050,
   "teamName" : "Monster Energy",
-  "totalPoints" : 0,
+  "totalPoints" : 6,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 0,
+  "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "AUSTRALIA" : 22,
     "MALAYSIA" : 18,
-    "CHINA" : 11
+    "CHINA" : 11,
+    "BAHRAIN" : 7
   },
   "eventsPoints" : {
     "AUSTRALIA" : 0,
     "MALAYSIA" : 0,
-    "CHINA" : 0
+    "CHINA" : 0,
+    "BAHRAIN" : 6
   }
 }
