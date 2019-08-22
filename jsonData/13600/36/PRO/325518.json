@@ -8,11 +8,11 @@
   "drivers" : [ 5343431, 6198390 ],
   "totalPoints" : 6,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 8,
+  "participations" : 10,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,6 +31,7 @@
     "AUSTRALIA" : 4,
     "MALAYSIA" : 0,
     "CHINA" : 2,
-    "BAHRAIN" : 0
+    "BAHRAIN" : 0,
+    "SPAIN" : 0
   }
 }

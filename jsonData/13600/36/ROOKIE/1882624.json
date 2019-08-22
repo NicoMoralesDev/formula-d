@@ -1,22 +1,22 @@
 {
-  "igpTeamId" : 87236,
-  "igpManagerId" : 87228,
-  "teamName" : "Scuderia Daniele",
-  "nationality" : "ar",
-  "color" : "#ff0000",
-  "carImage" : "https://igpmanager.azureedge.net/igp/livery/87236s.png?1556729681",
-  "drivers" : [ 5687710, 3921971 ],
+  "igpTeamId" : 1882624,
+  "igpManagerId" : null,
+  "teamName" : "F1 Sonrevonmar iGP Team",
+  "nationality" : "sv",
+  "color" : "#c7ffd7",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
+  "drivers" : [ 7601095, 7658320 ],
   "totalPoints" : 0,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 10,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 39,
+    "id" : 1,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -28,10 +28,6 @@
     "finishedRaces" : 0
   },
   "eventsPoints" : {
-    "AUSTRALIA" : 0,
-    "MALAYSIA" : 0,
-    "CHINA" : 0,
-    "BAHRAIN" : 0,
     "SPAIN" : 0
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#f8ac0a",
   "igpTeamId" : 770045,
   "teamName" : "MclataTEAM F1",
-  "totalPoints" : 34,
+  "totalPoints" : 42,
   "wins" : 0,
   "poles" : 1,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 5,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -30,12 +30,14 @@
     "AUSTRALIA" : 5,
     "MALAYSIA" : 4,
     "CHINA" : 4,
-    "BAHRAIN" : 11
+    "BAHRAIN" : 11,
+    "SPAIN" : 6
   },
   "eventsPoints" : {
     "AUSTRALIA" : 10,
     "MALAYSIA" : 12,
     "CHINA" : 12,
-    "BAHRAIN" : 0
+    "BAHRAIN" : 0,
+    "SPAIN" : 8
   }
 }

@@ -5,13 +5,13 @@
   "color" : "#aa9b22",
   "igpTeamId" : 253264,
   "teamName" : "Lusty Sport Team",
-  "totalPoints" : 21,
+  "totalPoints" : 23,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 5,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -30,12 +30,14 @@
     "AUSTRALIA" : 15,
     "MALAYSIA" : 10,
     "CHINA" : 5,
-    "BAHRAIN" : 5
+    "BAHRAIN" : 5,
+    "SPAIN" : 9
   },
   "eventsPoints" : {
     "AUSTRALIA" : 0,
     "MALAYSIA" : 1,
     "CHINA" : 10,
-    "BAHRAIN" : 10
+    "BAHRAIN" : 10,
+    "SPAIN" : 2
   }
 }
