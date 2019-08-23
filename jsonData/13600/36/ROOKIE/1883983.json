@@ -1,21 +1,22 @@
 {
-  "igpDriverId" : 6326603,
-  "driverName" : "Cesc Cavallero",
+  "igpTeamId" : 1883983,
+  "igpManagerId" : null,
+  "teamName" : "rauldelgado5126260058",
   "nationality" : "es",
-  "color" : "#ff05cf",
-  "igpTeamId" : 1405335,
-  "teamName" : "CashTeam",
+  "color" : "#13e7b4",
+  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
+  "drivers" : [ 7710776, 7710775 ],
   "totalPoints" : 0,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 6,
+  "participations" : 2,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
-    "id" : 102,
+    "id" : 1,
     "championships" : 0,
     "points" : 0,
     "wins" : 0,
@@ -26,20 +27,7 @@
     "participations" : 0,
     "finishedRaces" : 0
   },
-  "eventsPositions" : {
-    "AUSTRALIA" : 20,
-    "MALAYSIA" : 25,
-    "CHINA" : 21,
-    "BAHRAIN" : 30,
-    "SPAIN" : 22,
-    "MONACO" : 30
-  },
   "eventsPoints" : {
-    "AUSTRALIA" : 0,
-    "MALAYSIA" : 0,
-    "CHINA" : 0,
-    "BAHRAIN" : 0,
-    "SPAIN" : 0,
     "MONACO" : 0
   }
 }

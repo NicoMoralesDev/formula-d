@@ -5,13 +5,13 @@
   "color" : "#3e0068",
   "igpTeamId" : 252597,
   "teamName" : "JET Sport",
-  "totalPoints" : 2,
+  "totalPoints" : 4,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 1,
+  "topTens" : 2,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "MALAYSIA" : 21,
     "CHINA" : 25,
     "BAHRAIN" : 26,
-    "SPAIN" : 27
+    "SPAIN" : 27,
+    "MONACO" : 9
   },
   "eventsPoints" : {
     "AUSTRALIA" : 2,
     "MALAYSIA" : 0,
     "CHINA" : 0,
     "BAHRAIN" : 0,
-    "SPAIN" : 0
+    "SPAIN" : 0,
+    "MONACO" : 2
   }
 }

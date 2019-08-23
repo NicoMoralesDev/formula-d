@@ -5,13 +5,13 @@
   "color" : "#209455",
   "igpTeamId" : 721044,
   "teamName" : "Miklaren",
-  "totalPoints" : 101,
-  "wins" : 2,
-  "poles" : 1,
-  "podiums" : 5,
-  "topTens" : 5,
-  "fastestLaps" : 3,
-  "participations" : 5,
+  "totalPoints" : 126,
+  "wins" : 3,
+  "poles" : 2,
+  "podiums" : 6,
+  "topTens" : 6,
+  "fastestLaps" : 4,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "MALAYSIA" : 3,
     "CHINA" : 2,
     "BAHRAIN" : 2,
-    "SPAIN" : 1
+    "SPAIN" : 1,
+    "MONACO" : 1
   },
   "eventsPoints" : {
     "AUSTRALIA" : 25,
     "MALAYSIA" : 15,
     "CHINA" : 18,
     "BAHRAIN" : 18,
-    "SPAIN" : 25
+    "SPAIN" : 25,
+    "MONACO" : 25
   }
 }

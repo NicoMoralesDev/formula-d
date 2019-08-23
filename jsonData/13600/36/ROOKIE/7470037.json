@@ -5,13 +5,13 @@
   "color" : "#7eb0ec",
   "igpTeamId" : 1156088,
   "teamName" : "Destiny",
-  "totalPoints" : 2,
+  "totalPoints" : 3,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 2,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "MALAYSIA" : 10,
     "CHINA" : 10,
     "BAHRAIN" : 12,
-    "SPAIN" : 12
+    "SPAIN" : 12,
+    "MONACO" : 10
   },
   "eventsPoints" : {
     "AUSTRALIA" : 0,
     "MALAYSIA" : 1,
     "CHINA" : 1,
     "BAHRAIN" : 0,
-    "SPAIN" : 0
+    "SPAIN" : 0,
+    "MONACO" : 1
   }
 }

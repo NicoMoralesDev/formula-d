@@ -5,13 +5,13 @@
   "color" : "#00fffa",
   "igpTeamId" : 805991,
   "teamName" : "Opettaja EricDeath F1",
-  "totalPoints" : 74,
+  "totalPoints" : 92,
   "wins" : 0,
   "poles" : 0,
-  "podiums" : 3,
-  "topTens" : 5,
+  "podiums" : 4,
+  "topTens" : 6,
   "fastestLaps" : 1,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "MALAYSIA" : 4,
     "CHINA" : 2,
     "BAHRAIN" : 2,
-    "SPAIN" : 2
+    "SPAIN" : 2,
+    "MONACO" : 2
   },
   "eventsPoints" : {
     "AUSTRALIA" : 8,
     "MALAYSIA" : 12,
     "CHINA" : 18,
     "BAHRAIN" : 18,
-    "SPAIN" : 18
+    "SPAIN" : 18,
+    "MONACO" : 18
   }
 }

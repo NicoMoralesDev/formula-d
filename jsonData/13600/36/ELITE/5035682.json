@@ -5,13 +5,13 @@
   "color" : "#ff7500",
   "igpTeamId" : 787769,
   "teamName" : "Polaris",
-  "totalPoints" : 74,
+  "totalPoints" : 80,
   "wins" : 1,
   "poles" : 0,
   "podiums" : 3,
-  "topTens" : 5,
+  "topTens" : 6,
   "fastestLaps" : 0,
-  "participations" : 5,
+  "participations" : 6,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -31,13 +31,15 @@
     "MALAYSIA" : 2,
     "CHINA" : 3,
     "BAHRAIN" : 8,
-    "SPAIN" : 4
+    "SPAIN" : 4,
+    "MONACO" : 7
   },
   "eventsPoints" : {
     "AUSTRALIA" : 25,
     "MALAYSIA" : 18,
     "CHINA" : 15,
     "BAHRAIN" : 4,
-    "SPAIN" : 12
+    "SPAIN" : 12,
+    "MONACO" : 6
   }
 }

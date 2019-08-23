@@ -5,13 +5,13 @@
   "color" : "#ffa900",
   "igpTeamId" : 1798727,
   "teamName" : "SMG Motors",
-  "totalPoints" : 20,
+  "totalPoints" : 24,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 2,
+  "topTens" : 3,
   "fastestLaps" : 0,
-  "participations" : 3,
+  "participations" : 4,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -29,11 +29,13 @@
   "eventsPositions" : {
     "CHINA" : 4,
     "BAHRAIN" : 6,
-    "SPAIN" : 11
+    "SPAIN" : 11,
+    "MONACO" : 8
   },
   "eventsPoints" : {
     "CHINA" : 12,
     "BAHRAIN" : 8,
-    "SPAIN" : 0
+    "SPAIN" : 0,
+    "MONACO" : 4
   }
 }
