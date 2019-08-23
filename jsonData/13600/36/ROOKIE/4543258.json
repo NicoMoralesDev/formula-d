@@ -5,13 +5,13 @@
   "color" : "#80ff87",
   "igpTeamId" : 1368566,
   "teamName" : "Yisus GAZPROM Team",
-  "totalPoints" : 17,
+  "totalPoints" : 21,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
-  "topTens" : 3,
+  "topTens" : 4,
   "fastestLaps" : 0,
-  "participations" : 4,
+  "participations" : 5,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -30,12 +30,14 @@
     "CHINA" : 7,
     "BAHRAIN" : 10,
     "SPAIN" : 13,
-    "MONACO" : 5
+    "MONACO" : 5,
+    "TURKEY" : 8
   },
   "eventsPoints" : {
     "CHINA" : 6,
     "BAHRAIN" : 1,
     "SPAIN" : 0,
-    "MONACO" : 10
+    "MONACO" : 10,
+    "TURKEY" : 4
   }
 }

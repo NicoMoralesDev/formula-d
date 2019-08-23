@@ -5,13 +5,13 @@
   "color" : "#a500a5",
   "igpTeamId" : 870596,
   "teamName" : "Morados Sports Team",
-  "totalPoints" : 57,
+  "totalPoints" : 61,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 1,
-  "topTens" : 6,
+  "topTens" : 7,
   "fastestLaps" : 1,
-  "participations" : 6,
+  "participations" : 7,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -32,7 +32,8 @@
     "CHINA" : 8,
     "BAHRAIN" : 4,
     "SPAIN" : 8,
-    "MONACO" : 5
+    "MONACO" : 5,
+    "TURKEY" : 8
   },
   "eventsPoints" : {
     "AUSTRALIA" : 12,
@@ -40,6 +41,7 @@
     "CHINA" : 4,
     "BAHRAIN" : 12,
     "SPAIN" : 4,
-    "MONACO" : 10
+    "MONACO" : 10,
+    "TURKEY" : 4
   }
 }

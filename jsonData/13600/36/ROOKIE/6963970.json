@@ -1,18 +1,17 @@
 {
-  "igpTeamId" : 1882624,
-  "igpManagerId" : null,
-  "teamName" : "F1 Sonrevonmar iGP Team",
-  "nationality" : "sv",
-  "color" : "#c7ffd7",
-  "carImage" : "https://igpmanager.azureedge.net/igp/livery/0s.png?2018-11-12",
-  "drivers" : [ 7601095, 7658320 ],
+  "igpDriverId" : 6963970,
+  "driverName" : "B Menarguez",
+  "nationality" : "es",
+  "color" : "#7eb0ec",
+  "igpTeamId" : 1156088,
+  "teamName" : "Destiny",
   "totalPoints" : 0,
   "wins" : 0,
   "poles" : 0,
   "podiums" : 0,
   "topTens" : 0,
   "fastestLaps" : 0,
-  "participations" : 6,
+  "participations" : 1,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -27,9 +26,10 @@
     "participations" : 0,
     "finishedRaces" : 0
   },
+  "eventsPositions" : {
+    "TURKEY" : 14
+  },
   "eventsPoints" : {
-    "SPAIN" : 0,
-    "MONACO" : 0,
     "TURKEY" : 0
   }
 }

@@ -7,11 +7,11 @@
   "teamName" : "AMP Fiat",
   "totalPoints" : 4,
   "wins" : 0,
-  "poles" : 0,
+  "poles" : 1,
   "podiums" : 0,
   "topTens" : 1,
   "fastestLaps" : 0,
-  "participations" : 6,
+  "participations" : 7,
   "finishedRaces" : 0,
   "dnfs" : 0,
   "stats" : {
@@ -32,7 +32,8 @@
     "CHINA" : 8,
     "BAHRAIN" : 20,
     "SPAIN" : 20,
-    "MONACO" : 17
+    "MONACO" : 17,
+    "TURKEY" : 18
   },
   "eventsPoints" : {
     "AUSTRALIA" : 0,
@@ -40,6 +41,7 @@
     "CHINA" : 4,
     "BAHRAIN" : 0,
     "SPAIN" : 0,
-    "MONACO" : 0
+    "MONACO" : 0,
+    "TURKEY" : 0
   }
 }
